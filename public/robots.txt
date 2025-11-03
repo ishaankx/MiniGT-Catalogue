@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://minigt-catalogue.onrender.com/sitemap.xml
