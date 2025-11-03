@@ -153,18 +153,19 @@ main {
   background: #f5f5f5;
 }
 
-/* === NEW SEARCH INPUT STYLES === */
+/* === SEARCH INPUT STYLES === */
 .search-input {
   padding: 10px 14px;
   border-radius: 10px;
   border: 1px solid #ddd;
   background: white;
-  font-weight: 500; /* Lighter than button */
+  font-weight: 500;
   font-size: 0.95rem;
   outline: none;
   transition: border-color 0.2s ease, box-shadow 0.2s ease;
   width: 240px;
   color: var(--text);
+  z-index: 10; /* Fixed: Added to base rule to prevent click-stealing */
 }
 .search-input:focus {
   border-color: var(--accent);
@@ -225,9 +226,7 @@ main{padding:18px 20px 80px}
   gap:var(--gap);
   align-items:start;
 }
-@media (max-width:1200px){ .grid{ grid-template-columns: repeat(3,1fr) } }
-@media (max-width:850px){ .grid{ grid-template-columns: repeat(2,1fr) } }
-@media (max-width:480px){ .grid{ grid-template-columns: 1fr } }
+
 
 /* Card */
 .card{
@@ -269,12 +268,10 @@ a.card {
   object-fit:cover;
   display:block;
   
-  /* === NEW: For fade-in animation === */
   opacity: 0; /* Start invisible */
   transition: opacity 0.4s ease; /* Fade-in animation */
 }
 
-/* === NEW: Class added by JS when image is loaded === */
 .card img.loaded {
   opacity: 1; /* Fade to visible */
 }
@@ -308,8 +305,17 @@ a.card {
   font-size: 1.1rem;
 }
 
-/* small devices: make dropdown full width */
+/* === RESPONSIVE STYLES === */
+
+/* Large screens / Desktops */
+@media (max-width:1200px){ 
+  .grid{ grid-template-columns: repeat(3,1fr) } 
+}
+
+/* Medium screens / Tablets */
 @media (max-width:850px){
+  .grid{ grid-template-columns: repeat(2,1fr) } 
+  
   /* On medium screens, stack status under controls */
   .topbar {
     position: static; /* No sticky, no relative */
@@ -340,7 +346,10 @@ a.card {
   }
 }
 
+/* Small screens / Phones */
 @media (max-width:480px){
+  .grid{ grid-template-columns: 1fr } 
+
   .dropdown{ 
     right: 0;
     left: 0;
@@ -353,20 +362,11 @@ a.card {
     gap: 10px;
   }
   
- /* === NEW SEARCH INPUT STYLES === */
-.search-input {
-  padding: 10px 14px;
-  border-radius: 10px;
-  border: 1px solid #ddd;
-  background: white;
-  font-weight: 500; /* Lighter than button */
-  font-size: 0.95rem;
-  outline: none;
-  transition: border-color 0.2s ease, box-shadow 0.2s ease;
-  width: 240px;
-  color: var(--text);
-  z-index: 10; /* <-- ADD THIS LINE */
-}
+  /* Fixed: Correct mobile rule for search */
+  .search-input {
+    width: 100%;
+    order: -1; /* Moves search to the top */
+  }
 
   /* On small screens, return status-toggle to its normal flow */
   .status-toggle {
