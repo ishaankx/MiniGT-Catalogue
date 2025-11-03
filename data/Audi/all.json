@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Audi ABT RS6-R Glacier White Metallic",
+    "sku": "MGT00701",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/15201d420c6eff73cd1b59de0d4e9f3920231219172453591.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_202917\\MGT00701.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1298"
+  },
+  {
+    "name": "ABT Audi RS6-R Navarra Blue Metallic",
+    "sku": "MGT00574",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/3d75a1358d5b776424674b7d39b0ea5220230825025500652.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_202917\\MGT00574.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1075"
+  },
+  {
+    "name": "ABT Audi RS6 Johann Abt Signature Edition Black",
+    "sku": "MGT00514",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1676054528_580476.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_202917\\MGT00514.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=527"
+  },
+  {
+    "name": "ABT Audi RS6-R Daytona Grey",
+    "sku": "MGT00479",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1666370945_536831.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_202917\\MGT00479.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=484"
+  },
+  {
+    "name": "Audi RS 6 Avant Carbon Black Edition Florett Silver",
+    "sku": "MGT00372",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1647280535_424878.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_202917\\MGT00372.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=370"
+  },
+  {
+    "name": "Audi RS 6 Avant Mythos Black Metallic w/ Roof Box",
+    "sku": "MGT00257",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1621020422_294300.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_202917\\MGT00257.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=239"
+  },
+  {
+    "name": "Audi RS 6 Avant Silver Digital Camouflage",
+    "sku": "MGT00255-L",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1620840221_289748.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_202917\\MGT00255-L.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=233"
+  },
+  {
+    "name": "Audi RS 6 Avant  Silver Digital Camouflage w/ Roof Box",
+    "sku": "MGT00256-L",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1620838557_288400.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_202917\\MGT00256-L.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=232"
+  },
+  {
+    "name": "Audi RS 6 Avant Carbon Black Edition Tango Red",
+    "sku": "MGT00194",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1600364501_225677.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_202917\\MGT00194.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=170"
+  },
+  {
+    "name": "Audi RS 6 Avant Navarra Blue Metallic",
+    "sku": "MGT00186",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1599600772_222397.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_202917\\MGT00186.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=167"
+  }
+]

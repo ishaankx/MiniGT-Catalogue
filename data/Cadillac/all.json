@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Cadillac V-Series.R #01 Cadillac Racing  2024 IMSA Sebring 12 Hrs",
+    "sku": "MGT01004",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/cd8efaab916beba1a8b7316b548b29b120250511044724385.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_212550\\MGT01004.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1767"
+  },
+  {
+    "name": "Cadillac V-Series.R #01 Cadillac Racing  2024 IMSA Petit Le Mans",
+    "sku": "MGT01010",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/2a4f5c20b12d1e85df0402287a679d3320250427164907004.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_212550\\MGT01010.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1742"
+  },
+  {
+    "name": "Cadillac V-Series.R #31  Whelen Engineering Cadillac Racing  2023 IMSA Sebring 12 Hrs Winner",
+    "sku": "MGT00745",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/208d06add1a75b80bb9047dcf0257ffe20240321032241165.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_212550\\MGT00745.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1380"
+  },
+  {
+    "name": "Cadillac V-Series.R #311 Action Express Racing  2023 Le Mans 24 Hrs",
+    "sku": "MGT00736",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/bbaa60eaa96acf657dd0023ec38d144f20240219002944030.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_212550\\MGT00736.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1362"
+  },
+  {
+    "name": "Cadillac V-Series.R #2 Cadillac Racing  2023 Le Mans 24 Hrs  3rd Place",
+    "sku": "MGT00716",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/ebf2ae91ee9da9e739948cb37c8f91f220240109082630805.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_212550\\MGT00716.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1325"
+  },
+  {
+    "name": "Cadillac V-Series.R #01 Cadillac Racing  2023 IMSA Daytona 24 Hrs  3rd Place",
+    "sku": "MGT00708",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/032ec13f35e83c9fb52a458a35dba92820231219175425612.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_212550\\MGT00708.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1301"
+  },
+  {
+    "name": "Cadillac V-Series.R #02  2023 IMSA Daytona 24 Hrs",
+    "sku": "MGT00669",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/a08a0a8ba329c5c8b3863bff539d089220231016063950660.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_212550\\MGT00669.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1239"
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Bugatti Bolide Red",
+    "sku": "MGT01105",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/72b1b9100d5457663df0b2fcb135988e20251102040821406.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT01105.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1979"
+  },
+  {
+    "name": "Bugatti Bolide Presentation",
+    "sku": "MGT01063",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/7e040182393c6a4256091519109b7b9920250705222649780.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT01063.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1850"
+  },
+  {
+    "name": "Bugatti W16 Mistral Black",
+    "sku": "MGT01058",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/19124e4e58bb8299f80789335729c0d820250605073037117.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT01058.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1837"
+  },
+  {
+    "name": "Bugatti EB110 Super Sport Grigio Scuro",
+    "sku": "MGT01002",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/15982e8f1f70bae64b219b1a4ad3356620250511200222044.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT01002.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1805"
+  },
+  {
+    "name": "Bugatti EB110 GT Verde Scuro",
+    "sku": "MGT00968",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/3e1474168717d200548851164f3a3c8f20250409211131670.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00968.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1738"
+  },
+  {
+    "name": "Bugatti EB110 Super Sport  Blu  Bugatti",
+    "sku": "MGT00890",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/78b310d81b9aba6b0b29732d0d7d548b20241126231916559.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00890.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1629"
+  },
+  {
+    "name": "Bugatti EB110 Super Sport Giallo Bugatti",
+    "sku": "MGT00866",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/f65cd59f43537f7af6e7a4d6f1f2169720240930083206728.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00866.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1569"
+  },
+  {
+    "name": "Bugatti EB110 GT Dark Red Metallic",
+    "sku": "MGT00806",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/0f184a1fa10e0c085cd329cbc128fe1520240711081934991.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00806.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1501"
+  },
+  {
+    "name": "Bugatti Vision Gran Turismo Black",
+    "sku": "MGT00795",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/9e4ff3bab19264f5c77eeb885f567bce20240626053109956.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00795.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1479"
+  },
+  {
+    "name": "Bugatti EB110 GT Grigio Chiaro",
+    "sku": "MGT00704",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/b4c85d55cdc2d6395cf1cfc999c02a3920231219175054538.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00704.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1299"
+  },
+  {
+    "name": "Bugatti Divo  White",
+    "sku": "MGT00661",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/81a06d1dac17017d5e2c4a1a64e6d4cf20231009235441257.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00661.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1232"
+  },
+  {
+    "name": "Bugatti EB110 GT Blu Bugatti",
+    "sku": "MGT00644",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/99ee1c38c9f3a7e1c68085200987b87d20230911234722889.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00644.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1204"
+  },
+  {
+    "name": "Bugatti Divo Blu Bugatti",
+    "sku": "MGT00601",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/ef032cc2ffbcc48afcad0ca0812a2fe020230907201221919.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00601.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1130"
+  },
+  {
+    "name": "Bugatti Centodieci Blu Bugatti",
+    "sku": "MGT00586",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/88df3e99b677a59caae9225559a825e320230907192445080.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00586.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1120"
+  },
+  {
+    "name": "Bugatti Chiron Pur Sport  White",
+    "sku": "MGT00569",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/e630f64585101af46676d4d1e64970d720230825023034926.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00569.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1068"
+  },
+  {
+    "name": "Bugatti Chiron Super Sport Gold",
+    "sku": "MGT00513",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1676054265_579743.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00513.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=526"
+  },
+  {
+    "name": "Bugatti Divo  Red Metallic",
+    "sku": "MGT00503",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1671755487_562897.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00503.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=510"
+  },
+  {
+    "name": "Bugatti Chiron Pur Sport",
+    "sku": "MGT00487",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1668113511_544749.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00487.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=492"
+  },
+  {
+    "name": "Bugatti Divo Presentation",
+    "sku": "MGT00474",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1665001007_528202.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00474.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=477"
+  },
+  {
+    "name": "Bugatti Centodieci Black",
+    "sku": "MGT00466",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1663267479_514623.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00466.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=462"
+  },
+  {
+    "name": "Bugatti Chiron Super Sport White",
+    "sku": "MGT00440",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1659423105_497253.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00440.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=444"
+  },
+  {
+    "name": "Bugatti Chiron Pur Sport Yellow",
+    "sku": "MGT00428",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1657042312_481396.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00428.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=429"
+  },
+  {
+    "name": "Bugatti Chiron Super Sport 300+ World Record 304.773 mph",
+    "sku": "MGT00409",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1653330287_462705.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00409.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=409"
+  },
+  {
+    "name": "Bugatti Chiron Pur Sport Blue",
+    "sku": "MGT00379",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1652207327_456922.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00379.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=403"
+  },
+  {
+    "name": "Bugatti Chiron Super Sport 300+ Matte Black",
+    "sku": "MGT00374",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1648658071_426846.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00374.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=372"
+  },
+  {
+    "name": "Bugatti Vision Gran Turismo     Silver",
+    "sku": "MGT00369",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1647278662_421478.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00369.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=367"
+  },
+  {
+    "name": "Bugatti Centodieci White",
+    "sku": "MGT00337",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1636347202_37533.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00337.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=323"
+  },
+  {
+    "name": "Bugatti Vision Gran Turismo Yellow",
+    "sku": "MGT00317",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1632711897_353546.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00317.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=299"
+  },
+  {
+    "name": "Bugatti Vision Gran Turismo  Light Blue",
+    "sku": "MGT00266",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1622219617_30349.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_211954\\MGT00266.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=248"
+  }
+]
