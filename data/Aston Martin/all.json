@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Aston Martin DBS Hyper Red",
+    "sku": "MGT01065",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/d63b19c5543039ceba352e892127e9a320250605071430912.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_193147\\MGT01065.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1835"
+  },
+  {
+    "name": "Aston Martin AMR24 #18 Lance Stroll 2024 F1 2024 Bahrain GP",
+    "sku": "MGT01001",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/9937f0da23f6151e29ec23671d47458520250511200015621.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_193147\\MGT01001.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1804"
+  },
+  {
+    "name": "Aston Martin AMR24 #14 Fernando Alonso 2024 F1 2024 Bahrain GP",
+    "sku": "MGT00999",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/9316c004a50f80e306dac083858c306120250511195824848.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_193147\\MGT00999.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1803"
+  },
+  {
+    "name": "Aston Martin DBS 007 Edition",
+    "sku": "MGT01008",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/25e8b7c326b6c455703e0a16ad0bc69620250511045349214.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_193147\\MGT01008.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1771"
+  },
+  {
+    "name": "Aston Martin DB5 Sierra Blue",
+    "sku": "MGT00954",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/f28e87ec1caf6f007abc4e77c9bdbcdf20241209182036955.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_193147\\MGT00954.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1640"
+  },
+  {
+    "name": "Aston Martin DB5 “Thunderball”",
+    "sku": "MGT00901",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/12f9ffd8aa83510a2dbae38f15eb7ff220250409213427331.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_193147\\MGT00901.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1517"
+  },
+  {
+    "name": "Aston Martin DB5  “Goldfinger”",
+    "sku": "MGT00900",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/ec4baa3cd32b93f7f473d7bc9e22cf3020250409213304667.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_193147\\MGT00900.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1510"
+  },
+  {
+    "name": "Aston Martin Valkyrie  Hyper Red",
+    "sku": "MGT00766",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/44dcfcc8ea77b47008654e37f37c7ea120240527025648038.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_193147\\MGT00766.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1452"
+  },
+  {
+    "name": "Aston Martin Valkyrie  Sunburst  Yellow",
+    "sku": "MGT00744",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/547ebf22f64ece4678f8e241773bdcf020240318065541369.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_193147\\MGT00744.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1379"
+  },
+  {
+    "name": "Aston Martin Valkyrie  Maximum Orange",
+    "sku": "MGT00678",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/20b21195bbda496b45ea0cf2e8c87d5820240112102111220.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_193147\\MGT00678.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1257"
+  },
+  {
+    "name": "Aston Martin Valkyrie Aston Martin Racing Green",
+    "sku": "MGT00600",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/3f55a1fd9d04be03ac7264e4ea12555220240112100637325.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_193147\\MGT00600.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1170"
+  }
+]

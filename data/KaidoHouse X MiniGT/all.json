@@ -1,0 +1,730 @@
+[
+  {
+    "name": "Nissan Skyline GT-R (R34) KAIDO RACING FACTORY V2",
+    "sku": "KHMG240",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/e224aac05b655ca248261d118afcd86520251102210248146.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG240.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1989"
+  },
+  {
+    "name": "Honda NSX  TAMIYA x KAIDO HOUSE \"AVANTE\" V1",
+    "sku": "KHMG238",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/465958135417ac3797867947a56389ea20251102210013375.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG238.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1988"
+  },
+  {
+    "name": "Chevrolet Silverado Dually Hot Rod V1",
+    "sku": "KHMG236",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/29d79155345c8a0b602efb8321a2639220251102205505678.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG236.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1987"
+  },
+  {
+    "name": "Nissan Silvia S13-R KAIDO DRIFT V1",
+    "sku": "KHMG235",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/2dc6393c2070d2340a224f0aac42efda20251102205047124.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG235.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1986"
+  },
+  {
+    "name": "Toyota AE86 Sprinter Trueno Kaido Street V2",
+    "sku": "KHMG218",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/5ebf19796a8845e4d3fa0f9ea3bedd4620250806183556474.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG218.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1894"
+  },
+  {
+    "name": "BMW M3  Kaido GT V2",
+    "sku": "KHMG216",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/a4b941cdbe6ff00f95fc3a3eaba34bb620250806183227865.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG216.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1893"
+  },
+  {
+    "name": "Nissan Skyline 2000GT-R (KPGC10) Kaido Works V2",
+    "sku": "KHMG211",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/7462f00377bf9386b1bd1365b0b07dd120250806182907085.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG211.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1892"
+  },
+  {
+    "name": "Datsun KAIDO 510 Wagon 4x4 Kaido ISLANDS V1",
+    "sku": "KHMG210",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/eaf7fc95e604a7da42c731c6cc20389820250806182538767.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG210.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1891"
+  },
+  {
+    "name": "Nissan Skyline GT-R (R34) Kaido Works GReddy V2",
+    "sku": "KHMG222",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile/2024/03/20240326062930322.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG222.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1880"
+  },
+  {
+    "name": "Datsun 510 Street Team XMM V1",
+    "sku": "KHMG176",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/914e41bf0e60e69de292d327096e33eb20250801154220855.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG176.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1879"
+  },
+  {
+    "name": "Nissan Skyline 2000GT-R (KPGC10) Kaido Street V1",
+    "sku": "KHMG175",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/d9a46fe7194ff3873bcdfa2a211e2a0920250801153920417.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG175.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1878"
+  },
+  {
+    "name": "Honda NSX Kaido Racing V2",
+    "sku": "KHMG173",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/8d1c9b1a6b97d456a4221ea759ca614920250801153634627.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG173.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1877"
+  },
+  {
+    "name": "BMW M3 KaidoHaus V1",
+    "sku": "KHMG177",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/36c5d18a6a0988a608a0ac1382aaea7720250513015321726.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG177.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1818"
+  },
+  {
+    "name": "Chevrolet Silverado KAIDO   HKS V1",
+    "sku": "KHMG174",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/7a036eb9cf86f49090e8612e4a4a852820250513015033809.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG174.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1817"
+  },
+  {
+    "name": "Nissan Skyline GT-R (R34) TAMIYA x KAIDO HOUSE \"The GRASSHOPPER\" V1",
+    "sku": "KHMG167",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/de27a4b8e8e5df602fa9d9a164ddca2420250513014912124.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG167.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1816"
+  },
+  {
+    "name": "Toyota AE86 Sprinter Trueno Kaido Street V1",
+    "sku": "KHMG180",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/8c19ca73fd334263bc9ce217424b456120250513014059025.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG180.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1815"
+  },
+  {
+    "name": "Honda Civic (EF) Kaido Roulette  V1",
+    "sku": "KHMG179",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/22916122d9d1b56d9f0e9ae58a55eb9e20250513013843831.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG179.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1814"
+  },
+  {
+    "name": "Datsun KAIDO 510 Wagon OG  Flo Yellow",
+    "sku": "KHMG164",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/6ab8ba02f48e41a9d6d70fd33d4fab7d20250513013516197.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG164.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1813"
+  },
+  {
+    "name": "Kaido House BBS Tent V1",
+    "sku": "KHMG199",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/08819d664c28d04877c5b2b84fe1428f20250513013055904.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG199.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1812"
+  },
+  {
+    "name": "Nissan Skyline GT-R (R34) Kaido Star Racing V1",
+    "sku": "KHMG197",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/c595b68364d4e6d72bfbea56a0ef903420250513011440041.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG197.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1811"
+  },
+  {
+    "name": "Toyota AE86 Sprinter Trueno Kaido Racing V1",
+    "sku": "KHMG196",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/4e117d552403012e640e89b74a860e2820250513011222051.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG196.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1810"
+  },
+  {
+    "name": "BMW M3 Kaido KW V1",
+    "sku": "KHMG194",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/92c9ad44c258c6238e3d843c84120edf20250513010931868.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG194.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1809"
+  },
+  {
+    "name": "Datsun 510 Pro Street Buta V1",
+    "sku": "KHMG161",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/a48a8eaa25e53a681be5711923dd537e20250513010542561.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG161.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1808"
+  },
+  {
+    "name": "Nissan Skyline 2000GT-R (KPGC10) Kaido Racing V1",
+    "sku": "KHMG195",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/a51d49c4ea644f35aeb61ee3ec0cbcfc20250511050631417.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG195.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1775"
+  },
+  {
+    "name": "Chevrolet Silverado Dually Vintage Spec V1",
+    "sku": "KHMG192",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/1b9ee9ee0abcaa3b7914c4054364d6d820250511050433033.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG192.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1774"
+  },
+  {
+    "name": "Nissan Skyline GT-R (R33) Kaido Works ADVAN",
+    "sku": "KHMG191",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/b83937d172be980eead0d616ed830a6f20250511050303981.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG191.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1773"
+  },
+  {
+    "name": "Honda NSX Kaido Test Car Spec V1",
+    "sku": "KHMG190",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/3857af9ff10b0b9d65094a5c7aa514f420250511050148565.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG190.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1772"
+  },
+  {
+    "name": "Nissan Skyline GT-R (R33) Imai Racing V1",
+    "sku": "KHMG150",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile/2024/02/20240217185529982.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG150.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1684"
+  },
+  {
+    "name": "Datsun 510  4x4 Wagon Kaido Offroad V2",
+    "sku": "KHMG149",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile/2023/10/20231018190236457.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG149.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1683"
+  },
+  {
+    "name": "Honda NSX (NA1) Kaido WORKS V2",
+    "sku": "KHMG148",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/bcba6890c797051a4e29b2b52083620520250130190834629.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG148.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1682"
+  },
+  {
+    "name": "Chevrolet Silverado  “Sumatran Rhino”  KAIDO x MIZU Diecast",
+    "sku": "KHMG153",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/eebd9e51831bf0d2f631192beadb7b4320241104004726526.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG153.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1615"
+  },
+  {
+    "name": "Nissan Fairlady Z Kaido GT  ADVAN",
+    "sku": "KHMG172",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/05bab1debf5218e85f8cd1a0f00f106b20241021201142048.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG172.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1592"
+  },
+  {
+    "name": "Nissan Skyline 2000GT-R (KPGC10)  Kaido Works V1",
+    "sku": "KHMG165",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/7a9782ffdd429a853cce757e58082e7820241021200916215.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG165.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1591"
+  },
+  {
+    "name": "Nissan Skyline GT-R (R33) Active Carbon R V2",
+    "sku": "KHMG163",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/a0ba6197b2556a088bc47482e5eb1fd320241021200716041.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG163.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1590"
+  },
+  {
+    "name": "Honda Civic (EF) Kanjo  V1",
+    "sku": "KHMG139",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/22c808335b772f187d0149f0181dde5720240927205035551.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG139.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1558"
+  },
+  {
+    "name": "Datsun 510 Pro Street Anniversary Edition",
+    "sku": "KHMG138",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/69d0b57bd43d99b01c899ed88e49584220240927204928152.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG138.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1557"
+  },
+  {
+    "name": "Honda NSX Evasive V2",
+    "sku": "KHMG137",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/3fb0f9257f70d9c18be542c7bd7328c920240927204907833.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG137.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1556"
+  },
+  {
+    "name": "1/64 Figurine:  Kaido & Sons V2",
+    "sku": "KHMG142",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/5a67d66c26ef64e78467b0b8ce2f4b9d20240927204459190.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG142.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1555"
+  },
+  {
+    "name": "BMW M3 (E30) Kaido GT  V1",
+    "sku": "KHMG162",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/423506f964d89dcf2b47ec1410f85afb20240915235532053.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG162.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1542"
+  },
+  {
+    "name": "Chevrolet Silverado KAIDO V2",
+    "sku": "KHMG160",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/6d11b5946bcf1e9376aa776a896d864920240915235406811.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG160.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1541"
+  },
+  {
+    "name": "Nissan Skyline GT-R (R34) Kaido Works (V2 Aero) SHINJUKU V2",
+    "sku": "KHMG158",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/b0620644620840d7098120219aafb97320240915235235455.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG158.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1540"
+  },
+  {
+    "name": "Chevrolet Silverado Dually on Fire V2",
+    "sku": "KHMG157",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/5865c3446e075a25d66537c986dc596020240817153729890.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG157.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1520"
+  },
+  {
+    "name": "Honda Civic (EF) Kaido Works V2",
+    "sku": "KHMG156",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/7d22cdc944f0b82c7a52353af88e29b120240817153630224.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG156.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1519"
+  },
+  {
+    "name": "BMW M3 (E30) Kaido Works V1",
+    "sku": "KHMG154",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/2fae66da84ac1e446f41eb67803a4e2b20240817153521611.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG154.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1518"
+  },
+  {
+    "name": "Chevrolet Silverado KAIDO Vintage Spec  V1",
+    "sku": "KHMG145",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/70f6523729a9ed0930f605e04a36ec2120240701071117375.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG145.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1490"
+  },
+  {
+    "name": "Datsun KAIDO 510 Wagon  HKS V1",
+    "sku": "KHMG144",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/46c1703afc3f1f13fe22aef6fa399dda20240701070903149.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG144.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1489"
+  },
+  {
+    "name": "Nissan Skyline GT-R (R34) Kaido Works SHINJUKU V1",
+    "sku": "KHMG143",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/1dc7121fbdc7d1e8e951e5fdb14a2cc620240701070435221.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG143.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1475"
+  },
+  {
+    "name": "Chevrolet Silverado TAMIYA x KAIDO HOUSE \"Clod Buster\"",
+    "sku": "KHMG130",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/308e1439e27973cd3530576b3576425e20240410071019825.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG130.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1424"
+  },
+  {
+    "name": "Nissan Skyline GT-R (R33) HKS V1",
+    "sku": "KHMG129",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/ea8bff87e151c49f0ddcb674ad1957ea20240410070830290.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG129.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1423"
+  },
+  {
+    "name": "Honda Civic (EF) Kaido Works V1",
+    "sku": "KHMG126",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/248d06a10e4248be1a61b2ec923e263020240410070635872.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG126.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1422"
+  },
+  {
+    "name": "Datsun Street 510 Racing V2",
+    "sku": "KHMG131",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/a85f490f42281bca7f34544399b6eba220240326063719655.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG131.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1386"
+  },
+  {
+    "name": "Nissan Skyline GT-R (R34) KAIDO RACING FACTORY V1",
+    "sku": "KHMG128",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/48d01d4e18b4f71b56983a8d93197add20240326063451098.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG128.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1385"
+  },
+  {
+    "name": "Chevrolet Silverado Dually on Fire V1",
+    "sku": "KHMG127",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/4230e615b96bdb232bc2c1823b05cd5920240326063101705.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG127.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1384"
+  },
+  {
+    "name": "Datsun KAIDO 510 Wagon 4x4 Kaido Offroad V1",
+    "sku": "KHMG121",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/bd0e6d5bbee96f88e6f60060bb77084b20240223005418824.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG121.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1365"
+  },
+  {
+    "name": "Nissan Skyline GT-R R34 Kaido Works (V2 Aero) Police",
+    "sku": "KHMG120",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/2011e6311bcd812adc646ae3e2fc132c20240223005027437.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG120.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1364"
+  },
+  {
+    "name": "Honda NSX Kaido Racing V1",
+    "sku": "KHMG119",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/f4b07c286d0bfb407e6e09de5d6c75ad20240223004419131.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG119.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1363"
+  },
+  {
+    "name": "Datsun 510 Street Nismo V2",
+    "sku": "KHMG122",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/185039602d5b567f465c240cc9a7d8b820240217190339719.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG122.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1356"
+  },
+  {
+    "name": "Nissan Fairlady Z HKS",
+    "sku": "KHMG118",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/2dafe004e1ce0fe36dfdfafee714b04720240217185739824.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG118.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1355"
+  },
+  {
+    "name": "Nissan Skyline GT-R (R33) Active Carbon R",
+    "sku": "KHMG116",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/77f6cdf254e0e42ccfb75df4d828f01420240217185554319.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG116.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1354"
+  },
+  {
+    "name": "Datsun 510 Pro Street  Full Carbon V1",
+    "sku": "KHMG110",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/54c1df4ae315d0da64f99f56dae970ef20231123002802010.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG110.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1290"
+  },
+  {
+    "name": "Honda NSX Kaido WORKS V1",
+    "sku": "KHMG108",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/916b64d4f9b931155937c9f5e69c56f220231123002441052.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG108.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1289"
+  },
+  {
+    "name": "Chevrolet Silverado Dually KAIDO WORKS V2",
+    "sku": "KHMG090",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/b1788c44422e42b7478c20984dbb80b820231123002230354.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG090.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1288"
+  },
+  {
+    "name": "Nissan Skyline GT-R (R34) Kaido Works  (Greddy) Chrome plated - Maui Charity Limited 25 pieces",
+    "sku": "KHMG098",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/44ccf61bb03b751c09a07eda932ebc4f20231115005409236.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG098.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1275"
+  },
+  {
+    "name": "Nissan Skyline GT-R (R34) Kaido Works V4",
+    "sku": "KHMG103",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/376d6c4a206c158d1e39ed6043c2c6cb20231020233526411.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG103.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1245"
+  },
+  {
+    "name": "Datsun Street 510 Racing V1",
+    "sku": "KHMG102",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/8276ce348951e905cfcde745bf3931c520231019010847924.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG102.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1244"
+  },
+  {
+    "name": "Kaido House GREDDY Tent V1",
+    "sku": "KHMG101",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/3d090f57c8b720066444b6367be5421820231018190650249.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG101.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1243"
+  },
+  {
+    "name": "Nissan Fairlady Z Kaido GT 'ORANGE BANG' Larry Chen V1",
+    "sku": "KHMG100",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/5ff9b3771ca76a7cdc6c0b33eba6e7f020231018190339757.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG100.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1242"
+  },
+  {
+    "name": "Chevrolet Silverado KAIDO WORKS V2",
+    "sku": "KHMG099",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/e2d9dfc35d1686386351bc60f674625220230922162554117.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG099.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1229"
+  },
+  {
+    "name": "Nissan Skyline GT-R (R33) DAI33 V1",
+    "sku": "KHMG097",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/d6d81b0a0ffdd95918e693bb38c8306f20230922001210995.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG097.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1228"
+  },
+  {
+    "name": "Honda NSX Evasive V1",
+    "sku": "KHMG094",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/3179f2cb175981e0a9fb90781b4420cd20230922000549140.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG094.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1227"
+  },
+  {
+    "name": "Nissan Skyline GT-R (R33) Kaido Works V2",
+    "sku": "KHMG089",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_list/1635530140_370210.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG089.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1148"
+  },
+  {
+    "name": "Datsun 510 Pro Street JPN V1",
+    "sku": "KHMG087",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile/2025/11/20251102210113677.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG087.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1125"
+  },
+  {
+    "name": "Chevrolet Silverado KAIDO WORKS V1",
+    "sku": "KHMG082",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/bbb8e53ce9a1c3cfb5d556bd1d32477c20240516051730162.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG082.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1124"
+  },
+  {
+    "name": "Nissan Skyline GT-R (R33) Kaido Works V1",
+    "sku": "KHMG072",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/ebc955276bb16237ec5906cf6a99e3ec20230907193525451.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG072.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1123"
+  },
+  {
+    "name": "Nissan Skyline GT-R (R34) Kaido Works GReddy V1",
+    "sku": "KHMG074",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/b8098042c9a579100b79b9861d3d017f20230906205317419.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG074.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1105"
+  },
+  {
+    "name": "Chevrolet Silverado KAIDO V1",
+    "sku": "KHMG066",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/d32dd17202607848cd0bf596ec31fb4720230906205036838.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG066.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1104"
+  },
+  {
+    "name": "Datsun KAIDO Fairlady Z MOTUL  V3",
+    "sku": "KHMG064",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/f4a001c09b80e9600b7daf47998982a520230906204600337.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG064.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1103"
+  },
+  {
+    "name": "Chevrolet Silverado Dually KAIDO V1",
+    "sku": "KHMG084",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/6c1ee45e6305833c99cbe178342310e220230825045814502.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG084.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1088"
+  },
+  {
+    "name": "Datsun KAIDO 510 Wagon CARBON FIBER V3",
+    "sku": "KHMG076",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/4ce7667a33d227f519277fe494ed777d20230825045231021.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG076.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1087"
+  },
+  {
+    "name": "Nissan Skyline GT-R (R34) TAMIYA x KAIDO HOUSE \"The Hornet\"",
+    "sku": "KHMG093",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/f2bdb95db80cf7e9771785d7d38c55d020230825044754917.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG093.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1086"
+  },
+  {
+    "name": "Datsun KAIDO 510 Wagon 4x4 Winter Holiday Edition",
+    "sku": "KHMG092",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/1c1a0e23ec55a2ab508cb149a4a193dd20230908075518764.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG092.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1085"
+  },
+  {
+    "name": "Datsun Street 510 Nismo V1",
+    "sku": "KHMG091",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/20078cc4ef0f7d3cd9fff2396fb0e37720230825035730843.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG091.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1084"
+  },
+  {
+    "name": "KaidoHouse Figurine: Kaido & Sons",
+    "sku": "KHMG051",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1670362998_558683.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG051.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=506"
+  },
+  {
+    "name": "Datsun KAIDO 510 Wagon Kaido GT Surf Safari RS",
+    "sku": "KHMG044",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1668111833_542768.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG044.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=490"
+  },
+  {
+    "name": "Datsun KAIDO 510 Wagon Hanami V2",
+    "sku": "KHMG013",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1643930048_406335.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG013.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=352"
+  },
+  {
+    "name": "Datsun KAIDO 510 Wagon Hanami V1",
+    "sku": "KHMG012",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1643929976_405433.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG012.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=351"
+  },
+  {
+    "name": "Datsun 510 Pro Street BRE510 V1",
+    "sku": "KHMG005",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1635530154_370677.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG005.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=318"
+  },
+  {
+    "name": "Datsun 510 Pro Street SK510 Orange",
+    "sku": "KHMG004",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1628719424_325534.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG004.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=270"
+  },
+  {
+    "name": "Datsun Pro Street SK510 Red",
+    "sku": "KHMG003",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1628703601_324280.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG003.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=269"
+  },
+  {
+    "name": "Datsun 510 Pro Street  OG Purple",
+    "sku": "KHMG002",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1617665471_274494.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG002.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=220"
+  },
+  {
+    "name": "Datsun 510 Pro Street  OG Green",
+    "sku": "KHMG001",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1617665214_27341.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251103_173915\\KHMG001.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=219"
+  }
+]

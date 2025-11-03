@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>MiniGT Catalog</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <img src="images/logo/logo_3.svg" alt="MiniGT logo" class="logo">
+    </div>
+
+    <nav class="controls" aria-label="controls">
+      <div class="dropdown-wrapper">
+        <button id="category-button" class="dropdown-btn" aria-haspopup="listbox" aria-expanded="false">
+          <span class="lbl">Category:</span>
+          <span id="selected-category">All</span>
+          <span class="caret">▾</span>
+        </button>
+
+        <div id="category-dropdown" class="dropdown" role="dialog" aria-hidden="true" hidden>
+          <input id="category-filter" class="dropdown-search" placeholder="Search categories..." aria-label="Search categories" />
+          <ul id="category-list" class="dropdown-list" role="listbox" tabindex="-1"></ul>
+        </div>
+      </div>
+      
+      <input type="search" id="search-input" class="search-input" placeholder="Search by name or SKU...">
+      <div class="status-toggle" role="radiogroup" aria-label="status">
+        <button id="btn-released" class="status-btn active" data-status="released" aria-pressed="true">Released</button>
+        <button id="btn-preorder" class="status-btn" data-status="preorder" aria-pressed="false">Pre-Order</button>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <div id="grid" class="grid" aria-live="polite"></div>
+    <div id="empty" class="empty" hidden>No cars found</div>
+  </main>
+
+  <footer class="site-footer">
+  Made with <span class="heart">❤️</span> for this hobby by <strong>Ishaan Katara</strong>
+</footer>
+
+
+  <script src="script.js"></script>
+</body>
+</html>

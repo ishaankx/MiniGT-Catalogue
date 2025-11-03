@@ -1,0 +1,354 @@
+[
+  {
+    "name": "Porsche 911 GT3 R #77 AO Racing 2024 IMSA Road America",
+    "sku": "MGT01052",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/df0fb5d25952f274aea044440fba2e3a20250703173419313.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT01052.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1845"
+  },
+  {
+    "name": "Lamborghini Huracán GT3 EVO2 #78 Forte Racing 2024 IMSA Daytona 24 Hrs",
+    "sku": "MGT01062",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/5bd399e239069396e62a37eb6bb816f620250605084655109.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT01062.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1840"
+  },
+  {
+    "name": "Acura ARX-06 GTP #10  Wayne Taylor Racing with Andretti  2024 IMSA Daytona 24 Hrs",
+    "sku": "MGT01056",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/84c5c4bb5347896055e4ab00b3aed5b920250605070247820.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT01056.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1833"
+  },
+  {
+    "name": "Cadillac V-Series.R #01 Cadillac Racing  2024 IMSA Sebring 12 Hrs",
+    "sku": "MGT01004",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/cd8efaab916beba1a8b7316b548b29b120250511044724385.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT01004.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1767"
+  },
+  {
+    "name": "Ford Mustang GT3 #65 Ford Multimatic Motorsports 2024 IMSA Daytona 24 Hrs",
+    "sku": "MGT01012",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/b5ee7484a393cabe23e640cc00212ccd20250427165340099.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT01012.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1744"
+  },
+  {
+    "name": "Cadillac V-Series.R #01 Cadillac Racing  2024 IMSA Petit Le Mans",
+    "sku": "MGT01010",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/2a4f5c20b12d1e85df0402287a679d3320250427164907004.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT01010.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1742"
+  },
+  {
+    "name": "Acura ARX-06 GTP #40 Wayne Taylor Racing with Andretti 2024 IMSA Sebring 12Hrs Winner",
+    "sku": "MGT00837",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/4aa7ee06d280eb952eab421961ac707b20250327210511829.JPG",
+    "image_local_path": "",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1722"
+  },
+  {
+    "name": "McLaren 720S GT3 Evo Pfaff Motorsports 2024 IMSA Laguna Seca",
+    "sku": "MGT00993",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/1854175655b605e90293064ac45c985920250513021530103.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00993.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1708"
+  },
+  {
+    "name": "McLaren 720S GT3 Evo Pfaff Motorsports 2024 IMSA Daytona 24 Hrs",
+    "sku": "MGT00984",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/ee7fc653bf3426ed63c85a718a310eb020250226195208417.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00984.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1705"
+  },
+  {
+    "name": "Ford Mustang GT3 #64 Ford Multimatic Motorsports 2024 IMSA Daytona 24 Hrs",
+    "sku": "MGT00898",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/055df0a4d35162b524b46f4a56672c9720241202223017418.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00898.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1633"
+  },
+  {
+    "name": "Porsche 911 GT3 R #77 AO Racing 2024 IMSA Daytona 24 Hrs GTD Pro 2nd Place",
+    "sku": "MGT00889",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/25efef4e89818cb8074e2e8c64b94b0620241126231642865.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00889.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1627"
+  },
+  {
+    "name": "Porsche 911 GT3 R #80 AO Racing 2023 IMSA VIRginia Roxy",
+    "sku": "MGT00872",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/a4aa9ea35bab0e334237879f18d63c1a20241016035357160.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00872.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1588"
+  },
+  {
+    "name": "Chevrolet Corvette Z06 GT3.R #3 Corvette Racing by Pratt Miller Motorsports 2024 IMSA Daytona 24 Hrs",
+    "sku": "MGT00854",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/a3ce1a53d5531daf6b43745b4436f4b020240930082448014.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00854.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1565"
+  },
+  {
+    "name": "Lamborghini SC63 #63 Iron Lynx 2024 IMSA Sebring 12 Hrs",
+    "sku": "MGT00816",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/9ac9aac65e6ed6c961e5d5be289beb7720240806002503771.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00816.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1511"
+  },
+  {
+    "name": "Lamborghini Huracán GT3 EVO2 #63 Iron Lynx  IMSA 2023  Daytona 24 Hrs",
+    "sku": "MGT00813",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/19a3fcc8588776a47d644b8a14e44c1920240724070402190.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00813.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1507"
+  },
+  {
+    "name": "Lamborghini Huracán GT3 EVO2 #83 Iron Dames  2023 IMSA  Daytona 24 Hrs",
+    "sku": "MGT00772",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/1fc4442f2c8dae78f625e59e66e662ca20240514175628827.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00772.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1446"
+  },
+  {
+    "name": "Porsche 911 GT3 R #9 GTD PRO  Pfaff Motorsports  IMSA 2023 Sebring 12 Hrs. Winner",
+    "sku": "MGT00770",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/72e183698c09de5bcb465010a20e4ef620240429212124731.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00770.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1441"
+  },
+  {
+    "name": "Porsche 911 GT3 R #80 GTD AO Racing 2023  IMSA  Sebring 12 Hrs",
+    "sku": "MGT00713",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/67fc17192ce6a3880fcafb269f31aaf920240318072344932.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00713.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1383"
+  },
+  {
+    "name": "Cadillac V-Series.R #31  Whelen Engineering Cadillac Racing  2023 IMSA Sebring 12 Hrs Winner",
+    "sku": "MGT00745",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/208d06add1a75b80bb9047dcf0257ffe20240321032241165.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00745.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1380"
+  },
+  {
+    "name": "Porsche 911 Turbo S Safety Car 2023 IMSA Daytona 24 Hrs",
+    "sku": "MGT00735",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/cab5318718b4b170d8f78c380347d3aa20240219002739902.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00735.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1361"
+  },
+  {
+    "name": "Porsche 911 (992) Carrera S Safety Car  2023 IMSA Daytona 24 Hrs",
+    "sku": "MGT00699",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/6b0ee50bf3a1706bb6b59e9ab12755f020240303014056358.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00699.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1308"
+  },
+  {
+    "name": "BMW M Hybrid V8  #25 BMW M Team RLL   2023 IMSA Sebring 12 Hrs 2nd Place",
+    "sku": "MGT00709",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/d95308bfcadf5e09ea895d563466dd8220231219180204334.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00709.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1302"
+  },
+  {
+    "name": "Cadillac V-Series.R #01 Cadillac Racing  2023 IMSA Daytona 24 Hrs  3rd Place",
+    "sku": "MGT00708",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/032ec13f35e83c9fb52a458a35dba92820231219175425612.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00708.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1301"
+  },
+  {
+    "name": "Acura ARX-06 GTP #10  No. 10 Konica Minolta Acura ARX-06 2023 IMSA Daytona 24 Hrs",
+    "sku": "MGT00685",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/e4cd81457f12ff09e78b30e51c2a1f3920231110081937220.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00685.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1272"
+  },
+  {
+    "name": "BMW M Hybrid V8 GTP #24  2023 IMSA Daytona 24 Hrs",
+    "sku": "MGT00670",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/9d8948a281e626e5ba92f8555eb7948e20231016064447335.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00670.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1240"
+  },
+  {
+    "name": "Cadillac V-Series.R #02  2023 IMSA Daytona 24 Hrs",
+    "sku": "MGT00669",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/a08a0a8ba329c5c8b3863bff539d089220231016063950660.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00669.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1239"
+  },
+  {
+    "name": "Acura ARX-06 GTP #60  2023 IMSA Daytona 24 Hrs  Winner",
+    "sku": "MGT00668",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/94d76990bdae85640cdae26d10cf8ab620231016062411899.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00668.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1238"
+  },
+  {
+    "name": "BMW M4 GT3 #97 Turner Motorsport  IMSA 2023  Laguna Seca GTD 2nd Place",
+    "sku": "MGT00647",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/0eec8136d4548df995f9ac2f29760eb420240908161245416.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00647.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1207"
+  },
+  {
+    "name": "BMW M4 GT3 #1 ​ IMSA 2023 Sebring 12 Hrs GTD Winner",
+    "sku": "MGT00640",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/04efe323c0dbdb0c33dd82fe2e48d2d620230908115020544.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00640.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1198"
+  },
+  {
+    "name": "Acura NSX GT3 EVO22 #93 2023 IMSA Daytona 24 Hrs",
+    "sku": "MGT00617",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/009d263cccb20fe7867f63e94bde588520230908051125417.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00617.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1165"
+  },
+  {
+    "name": "Lamborghini Huracán GT3 EVO #19 GEAR Racing 2020 IMSA Daytona 24 Hrs",
+    "sku": "MGT00552",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1681435152_618437.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00552.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=563"
+  },
+  {
+    "name": "Lamborghini Huracán GT3 EVO #39 2022 IMSA  Road America  2nd Place",
+    "sku": "MGT00499",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1670195980_555492.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00499.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=503"
+  },
+  {
+    "name": "BMW M4 GT3 #96 2022 IMSA Daytona 24 Hrs",
+    "sku": "MGT00462",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1661796740_510911.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00462.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=458"
+  },
+  {
+    "name": "BMW M4 GT3 #25 BMW Team RLL 2022 IMSA Daytona 24 Hrs",
+    "sku": "MGT00416",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1655137731_469934.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00416.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=416"
+  },
+  {
+    "name": "BMW M4 GT3 #24 2022 IMSA Daytona 24 Hrs",
+    "sku": "MGT00394",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1651008062_448826.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00394.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=394"
+  },
+  {
+    "name": "Chevrolet Corvette C8.R #4  2021 IMSA Sebring  12 Hrs",
+    "sku": "MGT00316",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1632711786_352116.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00316.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=298"
+  },
+  {
+    "name": "Chevrolet Corvette C8.R #3     Corvette Racing    2021 IMSA Sebring  12 Hrs",
+    "sku": "MGT00315",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1632711695_35121.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00315.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=297"
+  },
+  {
+    "name": "Acura NSX GT3 EVO #44  2021 IMSA Daytona 24 Hrs",
+    "sku": "MGT00302",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1630363411_334228.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00302.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=280"
+  },
+  {
+    "name": "Chevrolet Corvette C8.R #4 2020 IMSA 24 Hrs of Daytona",
+    "sku": "MGT00254",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1621020316_293394.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00254.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=238"
+  },
+  {
+    "name": "Chevrolet Corvette C8.R #3 2020 IMSA 24 Hrs of Daytona",
+    "sku": "MGT00253",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1621020176_292798.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00253.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=236"
+  },
+  {
+    "name": "Acura NSX GT3 EVO #57  2020 IMSA 24 Hrs of Daytona",
+    "sku": "MGT00248",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1619718578_284573.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00248.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=228"
+  },
+  {
+    "name": "Acura NSX GT3 EVO #86  2019 IMSA Watkins Glen Class Winner",
+    "sku": "MGT00144",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1588174068_172557.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00144.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=120"
+  },
+  {
+    "name": "Acura NSX GT3 #93  Statue of Liberty\" 2017 IMSA Watkins Glen",
+    "sku": "MGT00072",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1563209890_113269.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00072.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=56"
+  },
+  {
+    "name": "Acura NSX GT3 #86 \"Uncle Sam\" 2017 IMSA Watkins Glen",
+    "sku": "MGT00052",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1556649770_931.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251102_165337\\MGT00052.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=46"
+  }
+]
