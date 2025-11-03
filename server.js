@@ -11,6 +11,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const app = express();
+app.set('trust proxy', 1);
 const PORT = process.env.PORT || 3000;
 
 // data directory (where your per-category JSON is stored)
@@ -21,7 +22,7 @@ const DATA_DIR = path.join(__dirname, 'data');
 // Define allowed websites
 const allowedOrigins = [
   'http://localhost:3000', // For your development
-  'https://YOUR-SITE-NAME.onrender.com' // <-- *** REPLACE THIS with your Render URL after deploying ***
+  'https://minigt-catalogue.onrender.com' 
 ];
 
 // Set up CORS
