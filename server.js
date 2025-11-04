@@ -5,7 +5,7 @@ import fsp from 'fs/promises';
 import fs from 'fs';
 import cors from 'cors';
 import { fileURLToPath } from 'url';
-import rateLimit from 'express-rate-limit'; // <-- 1. IMPORT RATE LIMITER
+import rateLimit from 'express-rate-limit';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -41,12 +41,11 @@ app.use(cors({
 }));
 
 // Set up Rate Limiter
-// This allows 100 requests per 15 minutes from a single IP for all API routes
 const apiLimiter = rateLimit({
 	windowMs: 15 * 60 * 1000, // 15 minutes
 	max: 100, // Limit each IP to 100 requests per `windowMs`
-	standardHeaders: true, // Return rate limit info in the `RateLimit-*` headers
-	legacyHeaders: false, // Disable the `X-RateLimit-*` headers
+	standardHeaders: true, 
+	legacyHeaders: false, 
   message: 'Too many requests from this IP, please try again after 15 minutes',
 });
 
@@ -87,7 +86,6 @@ function normalizeItem(raw, category) {
 
 // ----- API -----
 
-// vvv 3. APPLY THE RATE LIMITER TO ALL API ROUTES vvv
 app.use('/api', apiLimiter);
 
 // GET /api/categories -> returns folder names inside data/
@@ -150,7 +148,29 @@ app.get('/api/cars', async (req, res) => {
       });
     }
 
-    res.json(results);
+    // === vvv NEW DE-DUPLICATION LOGIC vvv ===
+    // If the category was 'all', filter the results to only include unique SKUs
+    let finalResults = results;
+    if (category === 'all') {
+      const uniqueSKUs = new Set();
+      finalResults = results.filter(item => {
+        // Handle items that might not have a SKU
+        if (!item.sku) {
+          return true; // Keep items without SKUs (or decide to filter them)
+        }
+        // Check if this SKU has already been added
+        if (uniqueSKUs.has(item.sku)) {
+          return false; // It's a duplicate, filter it out
+        }
+        // It's a new SKU, add it to the set and keep the item
+        uniqueSKUs.add(item.sku);
+        return true;
+      });
+    }
+    // === ^^^ END OF NEW LOGIC ^^^ ===
+    
+    res.json(finalResults); // Send the de-duplicated results
+
   } catch (err) {
     console.error('Error in /api/cars:', err);
     res.status(500).json({ error: 'Failed to load data' });
@@ -187,8 +207,6 @@ app.get('/api/car/:sku', async (req, res) => {
 });
 
 // ----- lightweight image proxy fallback -----
-
-// vvv 4. SECURE THE IMAGE PROXY vvv
 app.get('/img-proxy', async (req, res) => {
   try {
     const url = req.query.url;
@@ -207,14 +225,12 @@ app.get('/img-proxy', async (req, res) => {
 
     const contentType = remote.headers.get('content-type') || 'image/jpeg';
     res.setHeader('Content-Type', contentType);
-    // let the browser cache for 1 day
     res.setHeader('Cache-Control', 'public, max-age=86400');
 
     const body = remote.body;
     if (body && typeof body.pipe === 'function') {
       body.pipe(res);
     } else {
-      // older Node: read as arrayBuffer then send
       const ab = await remote.arrayBuffer();
       res.end(Buffer.from(ab));
     }
