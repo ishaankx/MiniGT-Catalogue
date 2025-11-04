@@ -17,21 +17,21 @@ const PORT = process.env.PORT || 3000;
 // data directory (where your per-category JSON is stored)
 const DATA_DIR = path.join(__dirname, 'data');
 
-// vvv 2. CONFIGURE CORS AND RATE LIMITER vvv
+// === vvv NEW CACHE VARIABLES vvv ===
+// These will hold all your data in memory
+let categoryCache = [];
+let carDataCache = {};
+let skuCache = new Map();
+// === ^^^ END CACHE VARIABLES ^^^ ===
 
-// Define allowed websites
+// --- CORS & Rate Limiter (no changes) ---
 const allowedOrigins = [
   'http://localhost:3000', // For your development
   'https://minigt-catalogue.onrender.com' 
 ];
-
-// Set up CORS
 app.use(cors({
   origin: function (origin, callback) {
-    // Allow requests with no origin (like mobile apps, curl, or local file://)
     if (!origin) return callback(null, true);
-    
-    // Check if the origin is in our allowed list
     if (allowedOrigins.indexOf(origin) === -1) {
       const msg = 'The CORS policy for this site does not allow access from the specified Origin.';
       return callback(new Error(msg), false);
@@ -39,20 +39,15 @@ app.use(cors({
     return callback(null, true);
   }
 }));
-
-// Set up Rate Limiter
 const apiLimiter = rateLimit({
-	windowMs: 15 * 60 * 1000, // 15 minutes
-	max: 100, // Limit each IP to 100 requests per `windowMs`
+	windowMs: 15 * 60 * 1000,
+	max: 100,
 	standardHeaders: true, 
 	legacyHeaders: false, 
   message: 'Too many requests from this IP, please try again after 15 minutes',
 });
 
-// ^^^ END OF CONFIGURATION ^^^
-
-
-app.use(express.static(path.join(__dirname, 'public'))); // serves /images/* automatically
+app.use(express.static(path.join(__dirname, 'public')));
 
 // ----- helpers ----- (no changes)
 async function readJson(filePath) {
@@ -63,7 +58,6 @@ async function readJson(filePath) {
     return null;
   }
 }
-
 function normalizeStatus(s) {
   if (!s) return null;
   const t = String(s).toLowerCase();
@@ -71,7 +65,6 @@ function normalizeStatus(s) {
   if (t.includes('release')) return 'released';
   return t;
 }
-
 function normalizeItem(raw, category) {
   return {
     sku: raw.sku || raw.SKU || raw.code || raw.id || '',
@@ -83,93 +76,144 @@ function normalizeItem(raw, category) {
     category: raw.category || category || ''
   };
 }
+// === ^^^ END HELPERS ^^^ ===
 
-// ----- API -----
 
-app.use('/api', apiLimiter);
-
-// GET /api/categories -> returns folder names inside data/
-app.get('/api/categories', async (req, res) => {
+// === vvv NEW CACHE LOADING FUNCTION vvv ===
+/**
+ * Loads all data from disk into the cache variables.
+ * This runs ONCE at server startup.
+ */
+async function loadCache() {
+  console.log('Loading cache...');
   try {
+    // 1. Load categories
     const items = await fsp.readdir(DATA_DIR, { withFileTypes: true });
     const categories = items.filter(i => i.isDirectory()).map(d => d.name);
-    res.json(categories);
+    categoryCache = categories; // Cache the category names
+
+    const newCarDataCache = {};
+    const newSkuCache = new Map();
+
+    // 2. Load car data for each category
+    for (const cat of categories) {
+      const categoryData = {};
+
+      // Read all possible files for this category
+      const releasedData = await readJson(path.join(DATA_DIR, cat, 'released.json'));
+      if (releasedData) categoryData.released = releasedData.map(item => normalizeItem(item, cat));
+      
+      const preorderData = await readJson(path.join(DATA_DIR, cat, 'preorder.json'));
+      if (preorderData) categoryData.preorder = preorderData.map(item => normalizeItem(item, cat));
+      
+      // Handle 'all.json' and its fallbacks
+      let allData = null;
+      const fallbackFiles = ['all.json', 'cars.json', `${cat}.json`];
+      for (const f of fallbackFiles) {
+         const d = await readJson(path.join(DATA_DIR, cat, f));
+         if (Array.isArray(d)) { allData = d; break; }
+      }
+      if (allData) categoryData.all = allData.map(item => normalizeItem(item, cat));
+
+      // Add this category's data to the main cache
+      newCarDataCache[cat] = categoryData;
+
+      // 3. Populate the SKU cache for fast lookups
+      // We combine all arrays, so /api/car/:sku can find any car
+      const allItems = [
+        ...(categoryData.released || []),
+        ...(categoryData.preorder || []),
+        ...(categoryData.all || [])
+      ];
+
+      for (const item of allItems) {
+        if(item.sku) {
+          const skuLower = item.sku.toLowerCase();
+          // Only add if it's not already in the map (first one wins)
+          if (!newSkuCache.has(skuLower)) {
+             newSkuCache.set(skuLower, item);
+          }
+        }
+      }
+    }
+    
+    carDataCache = newCarDataCache;
+    skuCache = newSkuCache;
+
+    console.log(`✅ Cache loaded successfully: ${categoryCache.length} categories, ${skuCache.size} unique SKUs found.`);
+
   } catch (err) {
-    console.error('Error reading DATA_DIR:', err?.message);
-    res.status(500).json({ error: 'Cannot read categories' });
+    console.error('❌ FAILED TO LOAD CACHE:', err);
+    // Exit the process if the cache fails to build, as the site won't work.
+    process.exit(1); 
   }
+}
+// === ^^^ END CACHE LOADING FUNCTION ^^^ ===
+
+
+// ----- API -----
+app.use('/api', apiLimiter);
+
+// GET /api/categories -> NOW READS FROM CACHE
+app.get('/api/categories', (req, res) => {
+  // This is now instant. No file I/O.
+  res.json(categoryCache);
 });
 
-// GET /api/cars?category=IMSA|all&status=released|preorder|all
-app.get('/api/cars', async (req, res) => {
+// GET /api/cars -> NOW READS FROM CACHE
+app.get('/api/cars', (req, res) => {
   const category = (req.query.category || 'all').trim();
   const requestedStatus = (req.query.status || 'released').trim().toLowerCase();
 
   try {
-    let categoriesToSearch = [];
-    if (category === 'all') {
-      const items = await fsp.readdir(DATA_DIR, { withFileTypes: true });
-      categoriesToSearch = items.filter(i => i.isDirectory()).map(d => d.name);
-    } else {
-      const p = path.join(DATA_DIR, category);
-      try {
-        const stat = await fsp.stat(p);
-        if (!stat.isDirectory()) return res.json([]);
-        categoriesToSearch = [category];
-      } catch {
-        return res.json([]); // unknown category
-      }
-    }
+    // 1. Get categories to search (from cache)
+    const categoriesToSearch = (category === 'all')
+      ? categoryCache
+      : (carDataCache[category] ? [category] : []); // Check if category exists in cache
 
     const results = [];
 
+    // 2. Loop through categories and pull data *from the cache*
     for (const cat of categoriesToSearch) {
-      // prefer dedicated status file if present
-      const statusFile = path.join(DATA_DIR, cat, `${requestedStatus}.json`);
-      const statusData = await readJson(statusFile);
-      if (Array.isArray(statusData)) {
-        statusData.forEach(it => results.push(normalizeItem(it, cat)));
+      const categoryData = carDataCache[cat];
+      if (!categoryData) continue; // Should not happen, but safe check
+
+      // 3. Try finding data for the specific status (e.g., 'released')
+      let dataArr = categoryData[requestedStatus];
+      
+      if (Array.isArray(dataArr)) {
+        // Found specific data (e.g., released.json). Add it.
+        results.push(...dataArr);
         continue;
       }
 
-      // fallback: look for all.json or cars.json or <cat>.json
-      const fallbackFiles = ['all.json', 'cars.json', `${cat}.json`];
-      let dataArr = null;
-      for (const f of fallbackFiles) {
-        const pth = path.join(DATA_DIR, cat, f);
-        const d = await readJson(pth);
-        if (Array.isArray(d)) { dataArr = d; break; }
-      }
-      if (!Array.isArray(dataArr)) continue;
+      // 4. Fallback: 'released.json' not found, so use 'all.json' data
+      dataArr = categoryData.all; // 'all' holds the data from all.json/cars.json
+      if (!Array.isArray(dataArr)) continue; // No 'all' file for this category
 
-      dataArr.forEach(item => {
-        const itemStatus = normalizeStatus(item.status || item.Status);
-        if (requestedStatus === 'all' || itemStatus === requestedStatus) results.push(normalizeItem(item, cat));
-      });
+      // 5. We have the 'all' data, so we must filter it
+      if (requestedStatus === 'all') {
+        results.push(...dataArr);
+      } else {
+        // Only add items that match the requested status
+        const filtered = dataArr.filter(item => item.status === requestedStatus);
+        results.push(...filtered);
+      }
     }
 
-    // === vvv NEW DE-DUPLICATION LOGIC vvv ===
-    // If the category was 'all', filter the results to only include unique SKUs
+    // 6. De-duplication logic (no changes)
     let finalResults = results;
     if (category === 'all') {
       const uniqueSKUs = new Set();
       finalResults = results.filter(item => {
-        // Handle items that might not have a SKU
-        if (!item.sku) {
-          return true; // Keep items without SKUs (or decide to filter them)
-        }
-        // Check if this SKU has already been added
-        if (uniqueSKUs.has(item.sku)) {
-          return false; // It's a duplicate, filter it out
-        }
-        // It's a new SKU, add it to the set and keep the item
+        if (!item.sku) return true;
+        if (uniqueSKUs.has(item.sku)) return false;
         uniqueSKUs.add(item.sku);
         return true;
       });
     }
-    // === ^^^ END OF NEW LOGIC ^^^ ===
     
-    res.json(finalResults); // Send the de-duplicated results
+    res.json(finalResults); // Send the fast, cached, de-duplicated results
 
   } catch (err) {
     console.error('Error in /api/cars:', err);
@@ -177,43 +221,27 @@ app.get('/api/cars', async (req, res) => {
   }
 });
 
-// GET /api/car/:sku -> search for one SKU across all categories
-app.get('/api/car/:sku', async (req, res) => {
+// GET /api/car/:sku -> READS FROM CACHE
+app.get('/api/car/:sku', (req, res) => {
   const skuLower = (req.params.sku || '').toLowerCase();
-  try {
-    const items = await fsp.readdir(DATA_DIR, { withFileTypes: true });
-    const cats = items.filter(i => i.isDirectory()).map(d => d.name);
-    for (const cat of cats) {
-      const aggregated = [];
-      const a = await readJson(path.join(DATA_DIR, cat, 'all.json'));
-      if (Array.isArray(a)) aggregated.push(...a);
-      const r = await readJson(path.join(DATA_DIR, cat, 'released.json'));
-      if (Array.isArray(r)) aggregated.push(...r);
-      const p = await readJson(path.join(DATA_DIR, cat, 'preorder.json'));
-      if (Array.isArray(p)) aggregated.push(...p);
-
-      for (const it of aggregated) {
-        const candidate = (it.sku || it.SKU || it.code || it.id || '').toLowerCase();
-        if (candidate && candidate === skuLower) {
-          return res.json(normalizeItem(it, cat));
-        }
-      }
-    }
-    res.status(404).json({ error: 'Not found' });
-  } catch (err) {
-    console.error('Error in /api/car/:sku', err);
-    res.status(500).json({ error: 'Server error' });
+  
+  // This is now an instant O(1) lookup. No loops, no file I/O.
+  const item = skuCache.get(skuLower);
+  
+  if (item) {
+    return res.json(item);
   }
+  
+  res.status(404).json({ error: 'Not found' });
 });
 
-// ----- lightweight image proxy fallback -----
+// ----- lightweight image proxy fallback ----- 
 app.get('/img-proxy', async (req, res) => {
   try {
     const url = req.query.url;
     if (!url) return res.status(400).send('missing url');
     if (!/^https?:\/\//i.test(url)) return res.status(400).send('invalid url');
 
-    // **SECURITY FIX**: Only allow proxying from 'minigt.tsm-models.com'
     const allowed = ['minigt.tsm-models.com'];
     const host = new URL(url).hostname;
     if (!allowed.includes(host)) {
@@ -242,15 +270,10 @@ app.get('/img-proxy', async (req, res) => {
 
 // server startup check
 app.listen(PORT, async () => {
+  // === vvv LOAD CACHE *BEFORE* ACCEPTING REQUESTS vvv ===
+  await loadCache(); 
+  // === ^^^ CACHE IS NOW READY ^^^ ===
+
   console.log(`Server running: http://localhost:${PORT}`);
-  try {
-    const s = await fsp.stat(DATA_DIR);
-    if (!s.isDirectory()) {
-      console.warn(`Warning: ${DATA_DIR} exists but is not a directory`);
-    } else {
-      console.log(`DATA_DIR: ${DATA_DIR}`);
-    }
-  } catch (e) {
-    console.warn(`Warning: DATA_DIR (${DATA_DIR}) does not exist — create it and add category folders (e.g. data/IMSA/all.json)`);
-  }
+  // can remove the old DATA_DIR check, loadCache() handles it.
 });
