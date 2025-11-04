@@ -242,7 +242,7 @@ app.get('/img-proxy', async (req, res) => {
     if (!url) return res.status(400).send('missing url');
     if (!/^https?:\/\//i.test(url)) return res.status(400).send('invalid url');
 
-    const allowed = ['minigt.tsm-models.com'];
+    const allowed = ['minigt.tsm-models.com', 'minitoysensei.co.uk'];
     const host = new URL(url).hostname;
     if (!allowed.includes(host)) {
         return res.status(403).send('forbidden host');
