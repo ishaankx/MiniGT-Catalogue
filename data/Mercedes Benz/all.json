@@ -8,6 +8,14 @@
     "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1924"
   },
   {
+    "name": "Mercedes-Benz 190 E 2.3 16 #11 Ayrton Senna 1984 Nurburgring Race of Champions W/ Figure",
+    "sku": "MGT01076",
+    "status": "Pre-Order",
+    "image_url": "https://static.wixstatic.com/media/3481d7_f2cc83cbab6846a9bab31f47ff67e530~mv2.jpg/v1/fill/w_480,h_320,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/3481d7_f2cc83cbab6846a9bab31f47ff67e530~mv2.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_102544\\MGT01125.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php"
+  },
+  {
     "name": "1984 Nürburgring Race of Champions Set Limited Edition 5000 Sets",
     "sku": "MGTS0016",
     "status": "Pre-Order",
@@ -18,7 +26,7 @@
   {
     "name": "Mercedes-Maybach S 680 Black",
     "sku": "MGT00977",
-    "status": "Pre-Order",
+    "status": "Released",
     "image_url": "https://minigt.tsm-models.com/upload/picfile_list/942a761ede1a953979397088bb6b325020250226191720581.JPG",
     "image_local_path": "results\\images_minigt.tsm-models.com_20251104_102544\\MGT00977.jpg",
     "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1702"
@@ -82,7 +90,7 @@
   {
     "name": "Mercedes-Maybach S680 Cirrus Silver / Nautical Blue Metallic",
     "sku": "MGT00516",
-    "status": "Pre-Order",
+    "status": "Released",
     "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1676054731_582369.JPG",
     "image_local_path": "results\\images_minigt.tsm-models.com_20251104_102544\\MGT00516.jpg",
     "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=529"
