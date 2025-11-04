@@ -268,12 +268,17 @@ app.get('/img-proxy', async (req, res) => {
   }
 });
 
-// server startup check
-app.listen(PORT, async () => {
+const server = app.listen(PORT, async () => {
   // === vvv LOAD CACHE *BEFORE* ACCEPTING REQUESTS vvv ===
   await loadCache(); 
   // === ^^^ CACHE IS NOW READY ^^^ ===
 
   console.log(`Server running: http://localhost:${PORT}`);
-  // can remove the old DATA_DIR check, loadCache() handles it.
 });
+
+// === vvv NEW TIMEOUT FIX vvv ===
+// This tells your server to wait 120 seconds for requests to finish
+// before closing them. This is the fix for the 502 Bad Gateway on wake-up.
+server.keepAliveTimeout = 120 * 1000;
+server.headersTimeout = 120 * 1000;
+// === ^^^ END NEW TIMEOUT FIX ^^^ ===
