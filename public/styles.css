@@ -300,6 +300,16 @@ a.card {
   font-size: 0.95rem;
   background: #fff;
 }
+
+.site-footer a {
+  color: var(--text); /* Use the main text colour */
+  text-decoration: none; /* Remove the underline */
+}
+
+.site-footer a:hover {
+  text-decoration: underline; /* Add underline on hover */
+}
+
 .heart {
   color: var(--accent);
   font-size: 1.1rem;
