@@ -12,7 +12,7 @@ const __dirname = path.dirname(__filename);
 
 const app = express();
 app.set('trust proxy', 1);
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 10000;
 
 // data directory (where your per-category JSON is stored)
 const DATA_DIR = path.join(__dirname, 'data');
