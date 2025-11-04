@@ -1,0 +1,746 @@
+[
+  {
+    "name": "Lamborghini LB-Silhouette WORKS MURCIELAGO GT Evo Yellow",
+    "sku": "MGT01135",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/38b9f430e37125868cb2a90f41c2a95820251015044036092.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT01135.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1972"
+  },
+  {
+    "name": "Lamborghini Countach 25th Anniversary White",
+    "sku": "MGT01134",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/b889b71b4c41b2366a0de6c18ecb791820250920234440631.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT01134.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1943"
+  },
+  {
+    "name": "LB★WORKS Lamborghini Aventador Limited Edition Orange MDX 2025",
+    "sku": "MGT01133",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/9c93a1eafbd11951c70146b94e4e851920250920234141407.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT01133.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1942"
+  },
+  {
+    "name": "Lamborghini Revuelto Viola 30th Matte",
+    "sku": "MGT01121",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/d27f3a6021cd96acecab8a0dad904f7720250826030442740.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT01121.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1920"
+  },
+  {
+    "name": "LB★WORKS Lamborghini Aventador Limited Edition Matte Black",
+    "sku": "MGT01087",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/af04a7ebde2cf05e3e9cd4f4984039e720250729213752729.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT01087.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1863"
+  },
+  {
+    "name": "Lamborghini LB-Silhouette WORKS MURCIELAGO GT Evo  Black",
+    "sku": "MGT01053",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/a27736f6e2f35950958abddefbb0c12f20250703173554353.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT01053.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1846"
+  },
+  {
+    "name": "Lamborghini Huracán GT3 EVO2 #78 Forte Racing 2024 IMSA Daytona 24 Hrs",
+    "sku": "MGT01062",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/5bd399e239069396e62a37eb6bb816f620250605084655109.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT01062.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1840"
+  },
+  {
+    "name": "LB★WORKS Lamborghini Huracán GT GRAVITY",
+    "sku": "MGT01055",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/849b8e85fef3754853d915b4cb120c3a20250605065511879.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT01055.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1832"
+  },
+  {
+    "name": "Lamborghini Huracan LB★WORKS ver. 2 Mad Mike NIMBUL",
+    "sku": "MGT00967",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/caf26643e6fe15c1bc34bfde1588b1f220250409211005874.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00967.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1737"
+  },
+  {
+    "name": "Lamborghini Countach LB-WORKS White 2024 Tokyo Auto Salon",
+    "sku": "MGT00966",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/945461a690f97519990f0b738994a1a720250409210830629.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00966.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1736"
+  },
+  {
+    "name": "Lamborghini Revuelto Verde Selvans",
+    "sku": "MGT00789",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/99d7bf97bbf9008067e401ebc7d2b38c20250327205102158.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00789.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1718"
+  },
+  {
+    "name": "Lamborghini Countach LPI 800-4 Verde Medio",
+    "sku": "MGT00976",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/e21845fe0280ff0add958a92f73b2edc20250226191514810.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00976.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1701"
+  },
+  {
+    "name": "Lamborghini Huracán STO  Bianco Asopo",
+    "sku": "MGT00788",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/9234e690757710114b643afec1d3866d20241202223300901.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00788.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1635"
+  },
+  {
+    "name": "Lamborghini Aventador SVJ 63 Roadster  Verde Shock",
+    "sku": "MGT00887",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/aeb60dbb2090410c9b28b4826a47a0d220241126160716652.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00887.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1626"
+  },
+  {
+    "name": "Lamborghini Revuelto Giallo",
+    "sku": "MGT00886",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/ba716b379b9581cff7204a4cecd895bb20241030182921087.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00886.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1607"
+  },
+  {
+    "name": "Lamborghini Countach LPI 800-4 Viola 30th",
+    "sku": "MGT00865",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/a4e074efa0b5727965246be11f93039520240930083015601.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00865.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1568"
+  },
+  {
+    "name": "Lamborghini Aventador SVJ 63  Bianco Asopo",
+    "sku": "MGT00842",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/a77a1e26bcb1c91924adb53278ab514820240918211048550.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00842.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1551"
+  },
+  {
+    "name": "Lamborghini SC63 #63 Iron Lynx 2024 IMSA Sebring 12 Hrs",
+    "sku": "MGT00816",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/9ac9aac65e6ed6c961e5d5be289beb7720240806002503771.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00816.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1511"
+  },
+  {
+    "name": "Lamborghini Huracán GT3 EVO2 #63 Iron Lynx  IMSA 2023  Daytona 24 Hrs",
+    "sku": "MGT00813",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/19a3fcc8588776a47d644b8a14e44c1920240724070402190.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00813.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1507"
+  },
+  {
+    "name": "Lamborghini Huracán Sterrato Blu Aegir",
+    "sku": "MGT00807",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/8c984bae69265ea2652dace7ec3f72a620240724021314149.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00807.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1502"
+  },
+  {
+    "name": "Lamborghini Aventador SVJ 63 Roadster   Nero Aldebaran",
+    "sku": "MGT00803",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/1e187adf283b5174f34b0f0ef28f55c820240711081528704.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00803.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1498"
+  },
+  {
+    "name": "Lamborghini Aventador SVJ 63  Blu Aegir",
+    "sku": "MGT00784",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/41061f242b5b50bd4959176e6f24c86a20240628004414181.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00784.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1484"
+  },
+  {
+    "name": "Lamborghini  Huracán Sterrato Verde Gea Matt",
+    "sku": "MGT00779",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/70c036cdca0d11bb2f03028d7544117420240527031531292.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00779.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1454"
+  },
+  {
+    "name": "Lamborghini Revuelto  Arancio Dac Lucido",
+    "sku": "MGT00774",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/9f1071b13289db9e8337a467819e4a3b20240514002223862.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00774.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1448"
+  },
+  {
+    "name": "Lamborghini Huracán GT3 EVO2 #83 Iron Dames  2023 IMSA  Daytona 24 Hrs",
+    "sku": "MGT00772",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/1fc4442f2c8dae78f625e59e66e662ca20240514175628827.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00772.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1446"
+  },
+  {
+    "name": "Lamborghini Urus  \"UNLOCK ANY ROAD HONG KONG\"    HK Exclusive",
+    "sku": "MGT00443",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/f1f274837b30ac54240054682d5e989f20240502212419074.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00443.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1443"
+  },
+  {
+    "name": "Lamborghini Huracán GT3 EVO2 #88 \"JLOC Lamborghini GT3\"  JLOC  2023 SUPER GT SERIES",
+    "sku": "MGT00690",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/acaee6e0cacdc86c4969ae7137e5c67020240429194215290.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00690.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1434"
+  },
+  {
+    "name": "Lamborghini Huracán GT3 EVO2 #87 \"Bamboo Airways Lamborghini GT3\"  JLOC  2023 SUPER GT SERIES",
+    "sku": "MGT00689",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/7efd1be7e79ee2ec9e7dc7cd5cfffab920240429194021241.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00689.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1433"
+  },
+  {
+    "name": "Lamborghini Urus Performante  Rosso Mars",
+    "sku": "MGT00657",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/1260a63e6745827f3646a7ad3074730120240507003921821.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00657.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1432"
+  },
+  {
+    "name": "Lamborghini Huracán Sterrato Bianco Asopo",
+    "sku": "MGT00763",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/75d3c2141dac057ff0d26c7ec1ac5d1820240419031348621.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00763.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1429"
+  },
+  {
+    "name": "Lamborghini Revuelto Blu Eleos",
+    "sku": "MGT00748",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/db89c96b18adb9c6d05235b4746364a120240408205737463.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00748.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1418"
+  },
+  {
+    "name": "Lamborghini Urus Performante Grigio Nimbus",
+    "sku": "MGT00747",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/bd5e974dc1e895645b9923ac8217c5af20240408205602638.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00747.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1417"
+  },
+  {
+    "name": "Lamborghini Huracán STO Viola Pasifae",
+    "sku": "MGT00746",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/0e3f9a022898d88a9d691ff218bf782e20240318072027688.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00746.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1381"
+  },
+  {
+    "name": "Lamborghini Countach LPI 800-4  New Giallo Orion",
+    "sku": "MGT00733",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/04da0d0020fec4e193ffb1b3e625f1db20240219001007745.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00733.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1359"
+  },
+  {
+    "name": "Lamborghini Countach LPI 800-4  Rosso Mars",
+    "sku": "MGT00720",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/8c97eda2ed02a9602c947993190da60220240109083959841.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00720.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1326"
+  },
+  {
+    "name": "Lamborghini Huracán GT3 EVO2 Presentation",
+    "sku": "MGT00687",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/444a6d99603a5f40e1e563c91861d33c20231120080953225.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00687.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1286"
+  },
+  {
+    "name": "Lamborghini Urus  2022 Macau GP Official Safety Car",
+    "sku": "MGT00591",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/9ce42b59c200231d73c7fd5e5c76df0c20231108002409625.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00591.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1267"
+  },
+  {
+    "name": "LB★WORKS Lamborghini Aventador Limited Edition Yellow",
+    "sku": "MGT00587",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/105f02685b54bbf838f17c5dc2b916f320230925063433238.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00587.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1230"
+  },
+  {
+    "name": "Lamborghini Huracán GT3 EVO #4  2022 Macau GP  Macau GT Cup 3rd Place",
+    "sku": "MGT00645",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/935a8f1901451e9877affa49b821680a20230911235004296.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00645.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1205"
+  },
+  {
+    "name": "Lamborghini LB-Silhouette WORKS  Aventador GT EVO Yellow",
+    "sku": "MGT00639",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/6f8cb69d0b822ccac012e3b0b21133ea20230908114625818.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00639.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1196"
+  },
+  {
+    "name": "Lamborghini Huracán STO Nero Noctis",
+    "sku": "MGT00638",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/71bb9c0c8d98cd1ed28d2b89c05de41020231114011234021.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00638.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1195"
+  },
+  {
+    "name": "Lamborghini LB-Silhouette WORKS Aventador GT EVO Lime",
+    "sku": "MGT00605",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/c59a42f8d400997078ebded8e4d6f3cc20230908024815219.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00605.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1144"
+  },
+  {
+    "name": "Lamborghini Sián FKP 37 Matte Viola SE30",
+    "sku": "MGT00588",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/f9ace505de8017f7cedb3214e0cdf49a20230908002238824.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00588.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1138"
+  },
+  {
+    "name": "Lamborghini Countach LPI 800-4  Nero Maia",
+    "sku": "MGT00607",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/d3d0c67b79992d1b5ad66e6798b511ae20230907202836707.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00607.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1134"
+  },
+  {
+    "name": "Lamborghini Sián FKP 37 Blu Aegir",
+    "sku": "MGT00573",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/cf08b9dcac9c6a521b50245159c8ce9120231114020257923.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00573.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1074"
+  },
+  {
+    "name": "Lamborghini Huracán GT3 EVO #88 “Weibo Primez LAMBORGHINI GT3” JLOC  2022 SUPER GT SERIES",
+    "sku": "MGT00572",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/81154b53a6946944268da445ae4455f720230825024521611.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00572.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1071"
+  },
+  {
+    "name": "Lamborghini Huracán GT3 EVO #87 “Bamboo Airways LAMBORGHINI GT3” JLOC 2022 SUPER GT SERIES",
+    "sku": "MGT00571",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/d411d8f0087d7256056b3b446351d5c420230825024345221.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00571.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1070"
+  },
+  {
+    "name": "LB-Silhouette WORKS Lamborghini Aventador GT EVO  Matte Black w/Gold Accent",
+    "sku": "MGT00519",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1684216545_641528.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00519.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=584"
+  },
+  {
+    "name": "Lamborghini Aventador SVJ Giallo Orion",
+    "sku": "MGT00563",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1684186359_636688.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00563.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=581"
+  },
+  {
+    "name": "Lamborghini Huracán GT3 EVO #19 GEAR Racing 2020 IMSA Daytona 24 Hrs",
+    "sku": "MGT00552",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1681435152_618437.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00552.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=563"
+  },
+  {
+    "name": "Lamborghini Huracán STO  Verde Citrea",
+    "sku": "MGT00547",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1680075743_607524.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00547.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=552"
+  },
+  {
+    "name": "Lamborghini Sián FKP 37  Presentation",
+    "sku": "MGT00529",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1678741563_593163.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00529.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=538"
+  },
+  {
+    "name": "Lamborghini Aventador SVJ  Baby Pink MINI GT give 2022 HK Edition",
+    "sku": "MGT00460",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1677009608_585932.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00460.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=530"
+  },
+  {
+    "name": "Lamborghini Huracán STO  Arancio Borealis",
+    "sku": "MGT00511",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1676054003_577310.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00511.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=524"
+  },
+  {
+    "name": "LB-Silhouette WORKS Lamborghini Aventador GT EVO  Matte Black w/Red Accent",
+    "sku": "MGT00518",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1684216312_640253.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00518.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=518"
+  },
+  {
+    "name": "Lamborghini Aventador SVJ Roadster Rosso Efesto",
+    "sku": "MGT00506",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1672892710_568865.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00506.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=516"
+  },
+  {
+    "name": "Lamborghini  LB-Silhouette WORKS Aventador GT EVO  Matte Black",
+    "sku": "MGT00502",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1671755237_56187.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00502.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=509"
+  },
+  {
+    "name": "Lamborghini Huracán GT3 EVO #39 2022 IMSA  Road America  2nd Place",
+    "sku": "MGT00499",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1670195980_555492.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00499.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=503"
+  },
+  {
+    "name": "Lamborghini  LB-Silhouette WORKS Aventador GT EVO Baby Blue",
+    "sku": "MGT00494",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1670193906_550210.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00494.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=498"
+  },
+  {
+    "name": "Lamborghini Huracán STO Blu Laufey",
+    "sku": "MGT00475",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1666370366_532464.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00475.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=480"
+  },
+  {
+    "name": "LB-Silhouette WORKS Lamborghini Aventador GT EVO White",
+    "sku": "MGT00467",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1663267719_515778.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00467.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=463"
+  },
+  {
+    "name": "LB★WORKS Lamborghini Aventador Limited Edition Matt Silver",
+    "sku": "MGT00449",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1660727017_501407.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00449.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=449"
+  },
+  {
+    "name": "Lamborghini Aventador SVJ  Baby Blue MINI GT give 2022 China Edition",
+    "sku": "MGT00459",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1677009381_584256.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00459.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=426"
+  },
+  {
+    "name": "Lamborghini Aventador SVJ Roadster Grigio Telesto",
+    "sku": "MGT00425",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1655745295_475255.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00425.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=422"
+  },
+  {
+    "name": "Lamborghini Huracán EVO Bologna Airport 2020 Follow-Me Car",
+    "sku": "MGT00193",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/388268a5ceab537bff450a28d67ba3ec20231014060739185.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00193.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=405"
+  },
+  {
+    "name": "LB★WORKS Lamborghini Huracán GT Digital Camouflage",
+    "sku": "MGT00398",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1652206688_452741.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00398.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=399"
+  },
+  {
+    "name": "Lamborghini Aventador SVJ Verde Mantis",
+    "sku": "MGT00391",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1655246541_445594.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00391.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=391"
+  },
+  {
+    "name": "LB★WORKS Lamborghini Huracan ver. 2 Red",
+    "sku": "MGT00375",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1648658196_427410.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00375.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=373"
+  },
+  {
+    "name": "Lamborghini Aventador SVJ Roadster Oro Elios",
+    "sku": "MGT00363",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1655139775_414350.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00363.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=360"
+  },
+  {
+    "name": "Lamborghini Urus Arancio Borealis",
+    "sku": "MGT00360",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1644823874_41037.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00360.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=356"
+  },
+  {
+    "name": "LB★WORKS Lamborghini Huracán GT Arancio Borealis",
+    "sku": "MGT00355",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1643046345_401389.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00355.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=347"
+  },
+  {
+    "name": "Lamborghini Huracán GT3 EVO Presentation",
+    "sku": "MGT00352",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1643046049_398406.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00352.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=344"
+  },
+  {
+    "name": "Lamborghini Aventador SVJ Viola Aletheia",
+    "sku": "MGT00343",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1638814497_388573.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00343.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=335"
+  },
+  {
+    "name": "LB★WORKS Lamborghini Aventador Limited Edition      Infinite Motorsports",
+    "sku": "MGT00329",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1635185703_365947.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00329.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=311"
+  },
+  {
+    "name": "Lamborghini Huracán EVO Verde Mantis",
+    "sku": "MGT00328",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1633936011_362705.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00328.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=308"
+  },
+  {
+    "name": "LB★WORKS Lamborghini Huracán GT  FIGHTERS WORKS",
+    "sku": "MGT00258",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1621020535_295418.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00258.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=240"
+  },
+  {
+    "name": "LB★WORKS Lamborghini Huracán ver. 1 Black",
+    "sku": "MGT00234",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1618421424_276350.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00234.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=221"
+  },
+  {
+    "name": "Lamborghini Huracán EVO Blu Eleos",
+    "sku": "MGT00229",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1614579191_266817.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00229.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=212"
+  },
+  {
+    "name": "Lamborghini Aventador SVJ Roadster Bianco Canopus",
+    "sku": "MGT00224",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1612208583_261644.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00224.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=208"
+  },
+  {
+    "name": "Lamborghini Urus  Bianco Monocerus Matt w/ Roof Box",
+    "sku": "MGT00220",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1607985186_252735.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00220.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=199"
+  },
+  {
+    "name": "Lamborghini Aventador SVJ Rosso Mars",
+    "sku": "MGT00198",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1602959749_233386.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00198.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=179"
+  },
+  {
+    "name": "LB★WORKS Lamborghini Huracán ver. 1 Light Blue",
+    "sku": "MGT00189",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1600363870_223310.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00189.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=168"
+  },
+  {
+    "name": "LB★WORKS Lamborghini Huracán ver. 2 Magic Bronze",
+    "sku": "MGT00190",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1599589842_22094.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00190.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=165"
+  },
+  {
+    "name": "LB★WORKS Lamborghini Huracán GT -  Giallo Auge",
+    "sku": "MGT00130",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1596869757_212157.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00130.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=157"
+  },
+  {
+    "name": "Lamborghini Urus  Blu Eleos w/ Roof Box",
+    "sku": "MGT00172",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1596738128_209828.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00172.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=154"
+  },
+  {
+    "name": "LB★WORKS Lamborghini Huracán GT  Magic Green",
+    "sku": "MGT00146",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1592610598_192138.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00146.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=138"
+  },
+  {
+    "name": "LB★WORKS Lamborghini Huracán ver. 2  Green",
+    "sku": "MGT00149",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1589837157_178950.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00149.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=127"
+  },
+  {
+    "name": "LB★WORKS Lamborghini Huracán ver. 1  White w/ Red Stripe",
+    "sku": "MGT00148",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1589836538_177752.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00148.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=125"
+  },
+  {
+    "name": "Lamborghini Urus - Giallo Auge",
+    "sku": "MGT00113",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1588174192_173251.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00113.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=121"
+  },
+  {
+    "name": "LB★WORKS Lamborghini Huracán GT  White",
+    "sku": "MGT00126",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1584813936_156920.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00126.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=102"
+  },
+  {
+    "name": "Lamborghini Huracán EVO - Rosso Mars",
+    "sku": "MGT00115",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1592610128_189444.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00115.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=99"
+  },
+  {
+    "name": "LB★WORKS Lamborghini Huracan GT Rosso Mars",
+    "sku": "MGT00129",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1579198907_154825.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00129.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=98"
+  },
+  {
+    "name": "Lamborghini Huracan EVO Arancio Borealis",
+    "sku": "MGT00114",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1579198388_152656.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090911\\MGT00114.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=96"
+  }
+]

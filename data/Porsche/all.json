@@ -1,0 +1,594 @@
+[
+  {
+    "name": "Porsche 911 Carrera RS 2.7 Tangerine with Black Livery",
+    "sku": "MGT01142",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/c717379c588bb792fac2e443abe529a420251015045749962.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT01142.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1975"
+  },
+  {
+    "name": "Porsche 911 Dakar #718  / Volkswagen ID. Buzz  Porsche Centrum Gelderland Roughroads Set",
+    "sku": "MGTS0019",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/09c11798d493fbbcb50d74ce1b180ac720250826064227704.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGTS0019.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1925"
+  },
+  {
+    "name": "Porsche 911 Dakar \"Uncle Rally\"",
+    "sku": "",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile/2023/09/20230913001625606.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\Porsche 911 Dakar _Uncle Rally_.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1853"
+  },
+  {
+    "name": "Porsche 911 GT3 R #77 AO Racing 2024 IMSA Road America",
+    "sku": "MGT01052",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/df0fb5d25952f274aea044440fba2e3a20250703173419313.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT01052.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1845"
+  },
+  {
+    "name": "Porsche 911 Dakar \"Uncle Rally\"",
+    "sku": "MGT01068",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/f9e6babdb54cf2e022621f9245e6202720250617033811389.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT01068.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1844"
+  },
+  {
+    "name": "Porsche 911 (992) GT3 RS Weissach Package Guards Red",
+    "sku": "MGT01060",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/7bec584ccc0f1a8418fc12408ec6040f20250605070424189.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT01060.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1834"
+  },
+  {
+    "name": "Porsche 911 Dakar  Rally 1974",
+    "sku": "MGT01009",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/58c6b9cab8549a2c45b822a4e5ebd3fe20250605064903473.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT01009.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1830"
+  },
+  {
+    "name": "Porsche 911 Dakar Black",
+    "sku": "MGT00958",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/f1cfb3865ed1de9f9d27e35d010f455320250319194048985.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00958.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1706"
+  },
+  {
+    "name": "Porsche 911 Dakar Ice Grey Metallic \"Rally 1978\"",
+    "sku": "MGT00964",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/d9f9c71b71d9ee3f76d1a8b9b6d11d4b20250109205317521.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00964.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1656"
+  },
+  {
+    "name": "Porsche 911 Dakar Ice Gray Metallic",
+    "sku": "MGT00891",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/76d7523e056f59dca8d5697a4b24e5d220241126232140552.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00891.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1630"
+  },
+  {
+    "name": "Porsche 911 GT3 R #77 AO Racing 2024 IMSA Daytona 24 Hrs GTD Pro 2nd Place",
+    "sku": "MGT00889",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/25efef4e89818cb8074e2e8c64b94b0620241126231642865.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00889.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1627"
+  },
+  {
+    "name": "Porsche 911 GT3 R #80 AO Racing 2023 IMSA VIRginia Roxy",
+    "sku": "MGT00872",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/a4aa9ea35bab0e334237879f18d63c1a20241016035357160.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00872.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1588"
+  },
+  {
+    "name": "Porsche Taycan Turbo S  Porsche x Shell",
+    "sku": "MGT00263",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/77ebf32aef2b3513cbd32e6abf7bda0320240930093918864.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00263.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1574"
+  },
+  {
+    "name": "Porsche 911 (992) GT3 RS Weissach Package White with Indigo Blue",
+    "sku": "MGT00853",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/22c59c80edaa7787788c4cb10bd1c9f720240930082257540.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00853.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1564"
+  },
+  {
+    "name": "Porsche 911 (992) GT3 RS Tribute to Carrera RS Package",
+    "sku": "MGT00827",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/af14f8aaa32018086d27c40aa044bba520250510055916837.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00827.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1515"
+  },
+  {
+    "name": "Porsche 911 Dakar Rallye Design Package White/Gentian Blue Metallic",
+    "sku": "MGT00805",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/e9bd9af47664170baecc11e99b3cbda320240711081820331.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00805.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1500"
+  },
+  {
+    "name": "Porsche 911 GT3 R #28 HubAuto Racing  2023 FIA GT World Cup 70th Macau Grand Prix",
+    "sku": "MGT00804",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/3bd379267c4383a0df55cf5f5559c62520240711081646596.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00804.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1499"
+  },
+  {
+    "name": "Porsche 911 1964 Slate Grey",
+    "sku": "MGT00717",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/48d2ffb5ca0021caf1d4546a8a49b31a20240628004531095.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00717.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1485"
+  },
+  {
+    "name": "Porsche 911 Carrera RS 2.7 Grand Prix White with Green Livery",
+    "sku": "MGT00801",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/a2ce0747835937fab28536f2979fe5e220240626054208901.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00801.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1481"
+  },
+  {
+    "name": "Porsche 911 GT3 R #27 HubAuto Racing  2023 FIA GT World Cup 70th Macau Grand Prix",
+    "sku": "MGT00793",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/93297a9fbf82a75f925960c74a20831220240626051633191.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00793.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1477"
+  },
+  {
+    "name": "Porsche 911 Dakar Shade Green Metallic",
+    "sku": "MGT00780",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/8efc3232a779de550749e92cae4d44a520240527031826151.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00780.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1456"
+  },
+  {
+    "name": "Porsche 911 GT3 R #9 GTD PRO  Pfaff Motorsports  IMSA 2023 Sebring 12 Hrs. Winner",
+    "sku": "MGT00770",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/72e183698c09de5bcb465010a20e4ef620240429212124731.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00770.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1441"
+  },
+  {
+    "name": "Porsche 911 Carrera RS 2.7 Grand Prix White with Blue Livery",
+    "sku": "MGT00715",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/25d803e54f24f35464f1993d125db08020240429205004072.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00715.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1437"
+  },
+  {
+    "name": "Porsche 911 (992) GT3 Touring Black",
+    "sku": "MGT00606",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/fc8bb84321bf6638acb11c2e4c0f634420240429192445260.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00606.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1431"
+  },
+  {
+    "name": "Porsche 911 GT3 R #80 GTD AO Racing 2023  IMSA  Sebring 12 Hrs",
+    "sku": "MGT00713",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/67fc17192ce6a3880fcafb269f31aaf920240318072344932.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00713.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1383"
+  },
+  {
+    "name": "Porsche 911 (992) GT3 Touring Crayon",
+    "sku": "MGT00675",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/d06adb669a4479cd480e5417caecfedf20240318072208887.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00675.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1382"
+  },
+  {
+    "name": "Porsche 963 Porsche Penske Motorsport  2023 24 Hrs of Le Mans   Limited Edition 3000 Sets",
+    "sku": "MGTS0011",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/af0032b9dc174096168a23046f0a818620240306212903494.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGTS0011.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1373"
+  },
+  {
+    "name": "Porsche 963 #75 Porsche Penske Motorsport  2023 24 Hrs of Le Mans",
+    "sku": "MGT00740",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/a3d75e09adffe34a82fcde2c1e6fb63b20240306211131870.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00740.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1370"
+  },
+  {
+    "name": "Porsche 901 1963 Signal Red",
+    "sku": "MGT00695",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/37a66ef0520349e07fb8a3395f982ece20240306210731880.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00695.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1369"
+  },
+  {
+    "name": "Porsche 911 Turbo S Safety Car 2023 IMSA Daytona 24 Hrs",
+    "sku": "MGT00735",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/cab5318718b4b170d8f78c380347d3aa20240219002739902.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00735.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1361"
+  },
+  {
+    "name": "Porsche 911 (992) GT3 RS Weissach Package White with Pyro Red",
+    "sku": "MGT00706",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/1da07b9cd3252993d3df5bda9538826320240109082350491.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00706.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1324"
+  },
+  {
+    "name": "Porsche 911 (992) Carrera S Safety Car  2023 IMSA Daytona 24 Hrs",
+    "sku": "MGT00699",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/6b0ee50bf3a1706bb6b59e9ab12755f020240303014056358.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00699.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1308"
+  },
+  {
+    "name": "Porsche 901 1963 'Quickblau'",
+    "sku": "MGT00707",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/3d38aeb3214565972a0fc3a00f90375e20231219175253772.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00707.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1300"
+  },
+  {
+    "name": "Porsche 911 Carrera RS 2.7 Black with Red Livery",
+    "sku": "MGT00688",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/458e4259a0474468a0fed3c0b1ef916820240112102258356.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00688.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1287"
+  },
+  {
+    "name": "Porsche 911 (992) GT3 RS Black with Pyro Red",
+    "sku": "MGT00681",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/287d48b64f9e37118ea40246296a2fee20231030060527209.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00681.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1258"
+  },
+  {
+    "name": "Porsche 911 (992) GT3 Guards Red",
+    "sku": "MGT00662",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/777194ba44a013e7f927b2181990252f20231204174154563.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00662.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1233"
+  },
+  {
+    "name": "Porsche 901 1963 Ivory",
+    "sku": "MGT00642",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/b38308e03c382d1a08553c79a36cd10c20230911234358794.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00642.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1202"
+  },
+  {
+    "name": "Porsche 911 (992) GT3 RS White  with Pyro Red Accent Package",
+    "sku": "MGT00630",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/b96c17b1a6dd4a0b56a9ca4cf404bdeb20230908074953503.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00630.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1175"
+  },
+  {
+    "name": "Porsche 911 Carrera RS 2.7 Grand Prix White with Red Livery",
+    "sku": "MGT00612",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/0e35886cdf5652e2cd2de20e100a96a020240112101910519.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00612.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1147"
+  },
+  {
+    "name": "Porsche 911 Targa 4S  Shark Blue",
+    "sku": "MGT00610",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/8d590eadc98a639b37ba6f5aa3c9bfd320230908025016294.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00610.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1145"
+  },
+  {
+    "name": "Porsche 911 (992) GT3 Racing Yellow",
+    "sku": "MGT00565",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/eced919ea409e1d228f182e7c722a0f020230617070214193.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00565.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1062"
+  },
+  {
+    "name": "Porsche 911 1964 Irish Green",
+    "sku": "MGT00560",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1684561611_633492.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00560.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=578"
+  },
+  {
+    "name": "Porsche 911 Turbo S Python Green",
+    "sku": "MGT00525",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1677783592_588311.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00525.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=533"
+  },
+  {
+    "name": "Porsche 911 Targa 4S  Heritage Design Edition GT Silver Metallic",
+    "sku": "MGT00507",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1672893156_569617.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00507.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=517"
+  },
+  {
+    "name": "Porsche 911 Turbo S Racing Yellow",
+    "sku": "MGT00497",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1670195266_553929.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00497.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=501"
+  },
+  {
+    "name": "Porsche 911 (992) GT3 White",
+    "sku": "MGT00478",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1666370796_535137.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00478.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=483"
+  },
+  {
+    "name": "Porsche 911 Targa 4S Heritage Design Edition Cherry Red",
+    "sku": "MGT00461",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1661796577_509669.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00461.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=457"
+  },
+  {
+    "name": "Porsche 911 (992) Carrera S Miami Blue",
+    "sku": "MGT00435",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1658104383_487388.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00435.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=435"
+  },
+  {
+    "name": "Porsche Taycan Turbo S Volcano Grey Metallic",
+    "sku": "MGT00433",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1658104133_486167.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00433.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=434"
+  },
+  {
+    "name": "Porsche 911 (992) GT3 Touring Gentian Blue Metallic",
+    "sku": "MGT00405",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1656982308_478727.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00405.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=425"
+  },
+  {
+    "name": "Porsche 911 Turbo S Guards Red",
+    "sku": "MGT00423",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1655744972_473462.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00423.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=421"
+  },
+  {
+    "name": "Porsche 911 Targa 4S Gentian Blue Metallic",
+    "sku": "MGT00412",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1655137125_465883.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00412.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=412"
+  },
+  {
+    "name": "Porsche Taycan Turbo S NaRaYa",
+    "sku": "MGT00399-R",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1652380901_457507.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00399-R.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=404"
+  },
+  {
+    "name": "Porsche 911(991) GT2 RS Weissach Package Black",
+    "sku": "MGT00401",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1652206808_453685.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00401.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=400"
+  },
+  {
+    "name": "Porsche 911 (992) GT3 GT Silver Metallic",
+    "sku": "MGT00390",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1651003988_444429.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00390.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=390"
+  },
+  {
+    "name": "Porsche 911 (992) GT3 Shark Blue",
+    "sku": "MGT00381",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1649655205_433175.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00381.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=379"
+  },
+  {
+    "name": "Porsche 911 (992) Carrera S White",
+    "sku": "MGT00380",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1649655078_432946.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00380.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=378"
+  },
+  {
+    "name": "Porsche 911 (992) GT3 Touring Agate Grey Metallic",
+    "sku": "MGT00373",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1648656624_425390.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00373.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=371"
+  },
+  {
+    "name": "Porsche 911 (992) Carrera 4S Lava Orange",
+    "sku": "MGT00371",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1647280395_423436.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00371.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=369"
+  },
+  {
+    "name": "Porsche 911 Turbo S GT Silver Metallic",
+    "sku": "MGT00354",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1643046245_400344.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00354.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=346"
+  },
+  {
+    "name": "Porsche 911(991) GT2 RS  Weissach Package Miami Blue",
+    "sku": "MGT00344",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1657077092_391221.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00344.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=337"
+  },
+  {
+    "name": "Porsche Taycan Turbo S Gentian Blue Metallic",
+    "sku": "MGT00339",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1638814123_384608.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00339.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=331"
+  },
+  {
+    "name": "Porsche 911 Targa 4S White",
+    "sku": "MGT00332",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1635194830_368550.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00332.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=315"
+  },
+  {
+    "name": "Porsche 911 (992) Carrera 4S GT Silver Metallic",
+    "sku": "MGT00303",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1630363505_335566.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00303.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=281"
+  },
+  {
+    "name": "Porsche Taycan Turbo S Carmine Red",
+    "sku": "MGT00289",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1628009653_320755.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00289.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=265"
+  },
+  {
+    "name": "Porsche 911 (992) Carrera S Guards Red",
+    "sku": "MGT00283",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1626711925_312190.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00283.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=257"
+  },
+  {
+    "name": "Porsche 911 Carrera 4S  Racing Yellow",
+    "sku": "MGT00252",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1621020017_291793.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00252.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=235"
+  },
+  {
+    "name": "Porsche Taycan Turbo S Frozen Blue Metallic",
+    "sku": "MGT00225",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1612208812_262522.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00225.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=209"
+  },
+  {
+    "name": "Porsche 911 (991) GT2 RS  Guards Red",
+    "sku": "MGT00160",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1609403718_257400.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00160.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=204"
+  },
+  {
+    "name": "Porsche Taycan Turbo S White",
+    "sku": "MGT00218",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1607984218_25042.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00218.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=197"
+  },
+  {
+    "name": "Porsche 911 (992) Carrera S GT Silver Metallic",
+    "sku": "MGT00210",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1604382192_241617.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00210.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=188"
+  },
+  {
+    "name": "Porsche 911 GT2 RS  Racing Yellow",
+    "sku": "MGT00136",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1591403701_187943.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00136.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=134"
+  },
+  {
+    "name": "Porsche 911 GT2 RS Weissach Package  White",
+    "sku": "MGT00086",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1584814215_157809.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00086.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=103"
+  },
+  {
+    "name": "Porsche 911 GT2 RS Weissach Package  GT Silver Metallic",
+    "sku": "MGT00063",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1560175593_99152.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_112217\\MGT00063.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=12"
+  }
+]

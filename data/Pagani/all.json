@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Pagani Huayra Roadster Black",
+    "sku": "MGT00417",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1659421639_494931.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_111406\\MGT00417.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=441"
+  },
+  {
+    "name": "Pagani Zonda HP Barchetta Rosso Dubai",
+    "sku": "MGT00432",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1658103802_48521.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_111406\\MGT00432.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=433"
+  },
+  {
+    "name": "Pagani Zonda F Blu Argentina",
+    "sku": "MGT00408",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1653330089_461184.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_111406\\MGT00408.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=408"
+  },
+  {
+    "name": "Pagani Zonda F Rosso Dubai",
+    "sku": "MGT00382",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1649655351_434392.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_111406\\MGT00382.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=380"
+  },
+  {
+    "name": "Pagani Zonda HP Barchetta Blue Tricolore",
+    "sku": "MGT00370",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1658181469_422240.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_111406\\MGT00370.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=368"
+  },
+  {
+    "name": "Pagani Zonda F Silver",
+    "sku": "MGT00305",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1630370407_337414.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_111406\\MGT00305.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=283"
+  },
+  {
+    "name": "Pagani Huayra Roadster White",
+    "sku": "MGT00053",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1573682108_13995.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_111406\\MGT00053.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=83"
+  },
+  {
+    "name": "Pagani Huayra Roadster Arancio Saint Tropez",
+    "sku": "MGT00078",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1566840276_120452.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_111406\\MGT00078.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=65"
+  },
+  {
+    "name": "Pagani Huayra Roadster  Rosso Monza",
+    "sku": "MGT00050",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1561059962_90223.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_111406\\MGT00050.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=43"
+  },
+  {
+    "name": "Pagani Huayra Roadster Blue Francia",
+    "sku": "MGT00038",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1548618619_76301.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_111406\\MGT00038.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=33"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Hyundai N Vision 74",
+    "sku": "MGT00825",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/971dfd68e882a5dc74dc321357c1f01220250510055418629.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_085922\\MGT00825.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1750"
+  },
+  {
+    "name": "Hyundai RN22e",
+    "sku": "MGT00824",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/a1a5c3b4db021c89769e01486e1b210c20250510055100826.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_085922\\MGT00824.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1749"
+  },
+  {
+    "name": "Hyundai i20 N Rally1 #11 2023 Rally Croatia  Power Stage Winner",
+    "sku": "MGT00972",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/4b533330f47b50ad457318061408d8ce20250219023956629.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_085922\\MGT00972.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1698"
+  },
+  {
+    "name": "Hyundai i20 N Rally1 Hybrid #11  2024 Rallye Monte-Carlo Winner",
+    "sku": "MGT00871",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/839bff19e622d2bda87d5171ea1a72e320241016035203776.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_085922\\MGT00871.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1587"
+  },
+  {
+    "name": "Hyundai i20 N Rally1 Hybrid #11 2023 Rally Monte Carlo 3rd Place",
+    "sku": "MGT00710",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/172300aa1198c76f8f38981fea856f1220231219180555237.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_085922\\MGT00710.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1303"
+  },
+  {
+    "name": "Hyundai KONA N Sonic Blue",
+    "sku": "MGT00454",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1666371099_537470.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_085922\\MGT00454.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=485"
+  },
+  {
+    "name": "Hyundai Elantra N Performance Blue",
+    "sku": "MGT00404",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1663267223_513232.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_085922\\MGT00404.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=461"
+  },
+  {
+    "name": "Hyundai KONA N Performance Blue",
+    "sku": "MGT00450",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1660727184_502599.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_085922\\MGT00450.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=450"
+  },
+  {
+    "name": "Hyundai Elantra N Ceramic White",
+    "sku": "MGT00427",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1656983142_480908.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_085922\\MGT00427.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=428"
+  },
+  {
+    "name": "Hyundai Elantra N #499 Caround Racing Hyundai N-Festival",
+    "sku": "MGT00403",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1652207016_454873.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_085922\\MGT00403.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=401"
+  },
+  {
+    "name": "Hyundai Elantra N Cyber Grey Metallic",
+    "sku": "MGT00386",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1649655845_437572.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_085922\\MGT00386.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=383"
+  }
+]

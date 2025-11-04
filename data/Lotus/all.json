@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Lotus 99T #11 Satoru Nakajima 1987 Monaco Grand Prix",
+    "sku": "MGT01148",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile/2025/11/20251102052308818.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_100953\\MGT01148.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1984"
+  },
+  {
+    "name": "Lotus 99T #12 Ayrton Senna 1987 Monaco Grand Prix Winner",
+    "sku": "MGT01088",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/4d81c46e0fb3a8b93128b5048a1f89a520250828203229014.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_100953\\MGT01088.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1926"
+  },
+  {
+    "name": "Lotus 78 #6  Gunnar Nilsson 1977 Japanese GP",
+    "sku": "MGT00808",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/e112a6735f55e54a77c4bfc0076edd9620240724024407101.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_100953\\MGT00808.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1503"
+  },
+  {
+    "name": "Lotus 78 #5 1977 Presentation",
+    "sku": "MGT00489",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1663607393_519434.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_100953\\MGT00489.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=468"
+  }
+]

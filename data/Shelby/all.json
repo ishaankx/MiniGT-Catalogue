@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Shelby GT500 Dragon Snake Concept Black/Gold",
+    "sku": "MGT01130",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/1d5d4f35a203b2bbf53a710ef991d89e20250920233256245.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_114439\\MGT01130.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1939"
+  },
+  {
+    "name": "Shelby GT500 Dragon Snake Concept  Fuchsia Metallic",
+    "sku": "MGT00696",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/7df4673a2488b929188d4f966606ba6c20231219180959740.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_114439\\MGT00696.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1305"
+  },
+  {
+    "name": "Shelby GT500 SE Widebody Pepper Gray Metallic",
+    "sku": "MGT00615",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/e7a5109648b89bad402f00ddf6efe8fb20230908050413662.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_114439\\MGT00615.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1163"
+  },
+  {
+    "name": "Shelby GT500 Dragon Snake Concept Black",
+    "sku": "MGT00575",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/6870baafca74701ccb0e0ff1654778d720230825031025223.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_114439\\MGT00575.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1076"
+  },
+  {
+    "name": "SHELBY Transporter Set",
+    "sku": "MGTS0005",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1680629434_61558.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_114439\\MGTS0005.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=560"
+  },
+  {
+    "name": "Shelby GT500 Dragon Snake Concept  Yellow",
+    "sku": "MGT00535",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1678744843_600930.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_114439\\MGT00535.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=545"
+  },
+  {
+    "name": "Ford Mustang Shelby GT500 Twister Orange",
+    "sku": "MGT00505",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1671767772_56436.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_114439\\MGT00505.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=512"
+  },
+  {
+    "name": "Shelby GT500 SE Widebody Ford Race Red",
+    "sku": "MGT00389",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1650996710_443963.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_114439\\MGT00389.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=389"
+  },
+  {
+    "name": "Ford Shelby GT500 Dragonsnake Concept Oxford White",
+    "sku": "MGT00318",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1632711999_35451.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_114439\\MGT00318.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=300"
+  }
+]

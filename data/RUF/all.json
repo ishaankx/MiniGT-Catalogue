@@ -1,0 +1,50 @@
+[
+  {
+    "name": "RUF CTR Anniversary Bayrisch Himmelblau",
+    "sku": "MGT00562",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1684186261_635228.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_114228\\MGT00562.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=580"
+  },
+  {
+    "name": "RUF CTR Anniversary Dark Blue",
+    "sku": "MGT00451",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1660727308_503798.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_114228\\MGT00451.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=451"
+  },
+  {
+    "name": "Ruf Rodeo Presentation",
+    "sku": "MGT00421",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1655744030_470354.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_114228\\MGT00421.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=417"
+  },
+  {
+    "name": "RUF CTR 1987 Blossom Yellow",
+    "sku": "MGT00419",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1655136901_464945.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_114228\\MGT00419.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=411"
+  },
+  {
+    "name": "RUF CTR Anniversary Irish Green",
+    "sku": "MGT00385",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1649655683_436880.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_114228\\MGT00385.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=382"
+  },
+  {
+    "name": "RUF CTR Anniversary Blossom Yellow",
+    "sku": "MGT00358",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1644823077_408378.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_114228\\MGT00358.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=354"
+  }
+]

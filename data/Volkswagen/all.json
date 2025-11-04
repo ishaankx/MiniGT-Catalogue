@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Porsche 911 Dakar #718  / Volkswagen ID. Buzz  Porsche Centrum Gelderland Roughroads Set",
+    "sku": "MGTS0019",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/09c11798d493fbbcb50d74ce1b180ac720250826064227704.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_120110\\MGTS0019.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1925"
+  },
+  {
+    "name": "Volkswagen ID.Buzz Candy White / Energetic Orange",
+    "sku": "MGT01061",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/177639999ba90f1f8ca3807469afd5c220250605074154967.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_120110\\MGT01061.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1839"
+  },
+  {
+    "name": "Volkswagen ID. Buzz  Prototype \"Rainbow\"",
+    "sku": "MGT00899",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/053bfabe940d444f7aa71a1a0efc381220241202223127278.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_120110\\MGT00899.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1634"
+  }
+]

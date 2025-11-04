@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Honda Civic Type R Ultimate Edition",
+    "sku": "MGT01147",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/513489b0de76c9e52687670b5e8481ad20251102052157910.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT01147.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1983"
+  },
+  {
+    "name": "Honda Civic TYPE R 2024 Pace Car HRC",
+    "sku": "MGT01079",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/457b220208ea45f33686d250c17e006d20250722031739516.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT01079.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1858"
+  },
+  {
+    "name": "Honda NSX-GT \"Type S\" GT500 #64 \"Modulo NSX-GT\"  Modulo Nakajima Racing  2023 SUPER GT Series",
+    "sku": "MGT00992",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/2b58d6e5b3b2e1535f850450134d20c820250409064841466.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00992.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1733"
+  },
+  {
+    "name": "Honda NSX-GT \"Type S\" GT500 #16 \"ARTA MUGEN NSX-GT \"  ARTA 2023 SUPER GT Series",
+    "sku": "MGT00787",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/1e36b27dcd5d2e9fd77ee26d4b1d751720250409064702210.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00787.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1732"
+  },
+  {
+    "name": "Honda NSX-GT \"Type S\" GT500 #8 \"ARTA MUGEN NSX-GT \"  ARTA 2023 SUPER GT Series",
+    "sku": "MGT00786",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/f2837afba8f6cfaea56c48572152e87a20250409064531525.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00786.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1731"
+  },
+  {
+    "name": "Honda S2000 (AP2) American Honda Collection Hall 2024 Holiday Limited Edition",
+    "sku": "MGT00878",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/48a756726deda37612beb53fecf09d2f20250130214842220.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00878.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1693"
+  },
+  {
+    "name": "Honda NSX-GT \"TYPE S\" GT500 #16 \"Red Bull MOTUL MUGEN NSX-GT \"  TEAM Red Bull MUGEN  2022 SUPER GT SERIES",
+    "sku": "MGT00848",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/6f6baeee26824895ae120c753524658f20241021202424262.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00848.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1594"
+  },
+  {
+    "name": "Honda NSX-GT \"Type S\" GT500 #16 \"Red Bull MOTUL MUGEN NSX-GT\"  2022 SUPER GT Series Rd.1 Okayama",
+    "sku": "MGT00800",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/3ae77eae19bb1771aa3f130364840ecd20240927210305306.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00800.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1562"
+  },
+  {
+    "name": "Honda NSX GT3 EVO22 #18 \"UPGARAGE NSX GT3\" TEAM UPGARAGE 2023 SUPER GT SERIES",
+    "sku": "MGT00692",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/f29450872f7dce292e769836f5056adb20240429195018396.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00692.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1436"
+  },
+  {
+    "name": "Honda NSX GT3 EVO AlphaTauri  Yuki Tsunoda   2023 Red Bull Formula Nurburgring",
+    "sku": "MGT00761",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/ffc3b7003c5addb3cf11ce9ecd2088c320240419031122954.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00761.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1427"
+  },
+  {
+    "name": "Honda Civic Type R #3 2023 Pace Car Blue",
+    "sku": "MGT00753",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/03f94deb7625f525e2007dd513356db220240408210207330.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00753.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1421"
+  },
+  {
+    "name": "Honda S2000 （AP2) CR Grand Prix White",
+    "sku": "MGT00656",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/604fd9947a272617eab91c55bedd8eee20240330221944616.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00656.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1391"
+  },
+  {
+    "name": "Honda Civic Type R #2 2023 Pace Car White",
+    "sku": "MGT00721",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/84742e566ce75b22dd05f589bac841b620240318213051136.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00721.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1327"
+  },
+  {
+    "name": "Honda Civic TYPE R 2023 Pace Car Red",
+    "sku": "MGT00686",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/2636c1b87d1cb7d23572633f9b43842920240318212935576.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00686.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1285"
+  },
+  {
+    "name": "Honda Civic Type R Sonic Gray Pearl 2023",
+    "sku": "MGT00659",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/d0189d52b32c0053d360aa97ad5b2ae320231009235050727.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00659.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1231"
+  },
+  {
+    "name": "Honda Civic Type R Boost Blue Pearl 2023",
+    "sku": "MGT00637",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/814d07e58c63960497f421989874f9b220230908113908535.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00637.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1194"
+  },
+  {
+    "name": "Honda Civic Type R 2023 Honda  Thanks Day Vietnam",
+    "sku": "MGT00626",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/2314675291aab511f0ad239bf056873120230908053441339.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00626.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1172"
+  },
+  {
+    "name": "Honda Civic Type R Crystal Black Pearl 2023 W/ Advan GT Wheel",
+    "sku": "MGT00585",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/893fd9918493bb5a674c086aa60efb6420230907192213010.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00585.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1119"
+  },
+  {
+    "name": "Honda NSX GT3 EVO22 #18 TEAM UPGARAGE 2022 SUPER GT SERIES",
+    "sku": "MGT00541",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1680629807_61724.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00541.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=562"
+  },
+  {
+    "name": "Honda Civic Type R Rallye Red 2023 W/ Advan GT Wheel",
+    "sku": "MGT00546",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1681840759_60673.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00546.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=551"
+  },
+  {
+    "name": "Honda Civic Type R Championship White 2023",
+    "sku": "MGT00530",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1681840698_594361.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00530.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=539"
+  },
+  {
+    "name": "Honda S2000 (AP2) Mugen Monte Carlo Blue Pearl",
+    "sku": "MGT00493",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1668114424_548432.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00493.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=496"
+  },
+  {
+    "name": "Honda NSX GT3 EVO22 #55 ARTA 2022 Super GT Series",
+    "sku": "MGT00485",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1667423573_539373.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00485.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=487"
+  },
+  {
+    "name": "Honda S2000 (AP2) Lime Green Metallic",
+    "sku": "MGT00396",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1652205780_450832.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00396.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=396"
+  },
+  {
+    "name": "Honda S2000 (AP2) Type S Apex Blue",
+    "sku": "MGT00376",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1648658450_428399.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00376.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=374"
+  },
+  {
+    "name": "Honda S2000 (AP2) MUGEN New Formula Red",
+    "sku": "MGT00367",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1647277702_419927.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00367.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=365"
+  },
+  {
+    "name": "Honda S2000 (AP2) Type S Grand Prix White",
+    "sku": "MGT00349",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1641236886_396590.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00349.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=342"
+  },
+  {
+    "name": "Honda S2000 (AP2) MUGEN  Berlina Black",
+    "sku": "MGT00309",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1631556708_34519.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00309.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=291"
+  },
+  {
+    "name": "Honda S2000 (AP2) Laguna Blue Pearl",
+    "sku": "MGT00287",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1626712266_31367.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00287.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=258"
+  },
+  {
+    "name": "Honda S2000 Type S New Indy Yellow Pearl",
+    "sku": "MGT00282-R",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1673994139_574915.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00282-R.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=256"
+  },
+  {
+    "name": "Honda S2000 CR Rio Yellow Pearl",
+    "sku": "MGT00282-L",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1626711582_311723.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00282-L.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=255"
+  },
+  {
+    "name": "Honda Civic Type R  HKS 2018 Time Attack",
+    "sku": "MGT00101",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1579197634_150505.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00101.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=94"
+  },
+  {
+    "name": "Honda Civic Type R (FK8) HKS Black",
+    "sku": "MGT00097",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1572303378_134713.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00097.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=78"
+  },
+  {
+    "name": "Honda Civic Type R (FK8) Blitz Type R",
+    "sku": "MGT00095",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1572302515_133695.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00095.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=77"
+  },
+  {
+    "name": "Honda Civic Type R (FK8)  2018 Indonesia Motor Show",
+    "sku": "MGT00059",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1562093071_110947.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00059.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=53"
+  },
+  {
+    "name": "Honda Civic Type R (FK8)  Championship white w/ Carbon Kit & TE37 Wheel",
+    "sku": "MGT00065",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1559705113_98290.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00065.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=48"
+  },
+  {
+    "name": "Honda NSX GT3 #30  2018 24 Hours of Spa",
+    "sku": "MGT00051",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1556647829_92475.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00051.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=45"
+  },
+  {
+    "name": "NSX GT3 2019 MINI GT Gift Car",
+    "sku": "MGT00027-L",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1556221571_87857.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00027-L.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=41"
+  },
+  {
+    "name": "Honda Civic Type R (FK8) ADAC TCR Germany  Safety Car",
+    "sku": "MGT00022-L",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1555960429_85227.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00022-L.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=40"
+  },
+  {
+    "name": "Honda Civic Type R (FK8) Rallye Red Modulo Edition",
+    "sku": "MGT00021",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1555960214_84312.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00021.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=39"
+  },
+  {
+    "name": "Honda NSX GT3 Tokyo Auto Salon 2018",
+    "sku": "MGT00036",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1556041524_8631.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00036.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=36"
+  },
+  {
+    "name": "Honda Civic Type R (FK8)  Slate Grey w/ TE37 Wheel",
+    "sku": "MGT00028-L",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1550606784_82132.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00028-L.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=32"
+  },
+  {
+    "name": "Honda NSX GT3 #84",
+    "sku": "MGT00016",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1544472756_71419.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00016.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=28"
+  },
+  {
+    "name": "Honda NSX GT3 Presentation",
+    "sku": "MGT00025-L",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1541847800_66684.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00025-L.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=23"
+  },
+  {
+    "name": "Honda Civic Type R (FK8)",
+    "sku": "MGT00024-L",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1541847714_65260.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00024-L.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=22"
+  },
+  {
+    "name": "Honda Civic Type R (FK8)",
+    "sku": "MGT00023-L",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1541847540_64570.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00023-L.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=21"
+  },
+  {
+    "name": "Honda Civic Type R (FK8) Aegean Blue Modulo Edition",
+    "sku": "MGT00017",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/60b735a37cd3037261f6120c1ac2caf720241128031212595.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00017.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=18"
+  },
+  {
+    "name": "Honda Civic Type R (FK8) Crystal Black",
+    "sku": "MGT00015",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/fe08620001439a0d3973b4d97b698c2320241128013615868.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00015.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=17"
+  },
+  {
+    "name": "1/64 Honda Civic Type R (FK8)  ArtCar Manga - 2018 Paris Autoshow",
+    "sku": "MGT00037",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1548617338_73119.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00037.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=16"
+  },
+  {
+    "name": "Honda Civic Type R (FK8) Crystal Black Modulo Edition - RHD",
+    "sku": "MGT00011-R",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/7e844c5c1bd1ac5a3a56c7353c72929820241128013139441.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00011-R.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=15"
+  },
+  {
+    "name": "Honda Civic Type R (FK8) Rallye Red",
+    "sku": "MGT00012",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1567015774_53981.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00012.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=13"
+  },
+  {
+    "name": "Honda Civic Type R (FK8) Championship White Modulo Edition",
+    "sku": "MGT00010",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1567015555_51752.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00010.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=11"
+  },
+  {
+    "name": "Honda Civic Type R (FK8) Phoenix Yellow",
+    "sku": "MGT00008-MJ",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1542137948_70480.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00008-MJ.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=8"
+  },
+  {
+    "name": "Honda Civic Type R (FK8) Aegean Blue Metallic",
+    "sku": "MGT00002",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1567015361_44648.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00002.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=2"
+  },
+  {
+    "name": "Honda Civic Type R (FK8) Championship White",
+    "sku": "MGT00001",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1567015164_43863.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084858\\MGT00001.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1"
+  }
+]

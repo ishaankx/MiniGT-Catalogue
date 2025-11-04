@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Jaguar C-X75 Black",
+    "sku": "MGT01070",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/7e5a338282446d10a3894d4351be01c620250705224728700.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090401\\MGT01070.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1854"
+  },
+  {
+    "name": "Jaguar C-X75 Test Car",
+    "sku": "MGT00997",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/71862e4cc06a8e4457f989f74ee2663720250513022112430.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090401\\MGT00997.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1822"
+  },
+  {
+    "name": "Jaguar C-X75 Silver",
+    "sku": "MGT00960",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/6026dbc4c393a12f0d08dbdb1aafcea720250109194344073.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090401\\MGT00960.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1652"
+  },
+  {
+    "name": "Jaguar C-X75 \"Spectre\"",
+    "sku": "MGT00903",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/37aec5f9647561c0848416f67cdee95720250427210229420.jpg",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090401\\MGT00903.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1623"
+  },
+  {
+    "name": "Jaguar C-X75 Blue",
+    "sku": "MGT00884",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/9bc5461138e0decd62932b0f4c1c42c620241030181327164.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_090401\\MGT00884.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1605"
+  }
+]

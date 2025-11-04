@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Toyota GR86 HKS TYPE R ADVAN 2022 Tokyo Auto Salon",
+    "sku": "MGT00956",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/8c53603ed0224cc4d6a3480b29fc60e620241209182511333.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084502\\MGT00956.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1642"
+  },
+  {
+    "name": "HKS Toyota GR Supra (A90)   Downshift Blue",
+    "sku": "MGT00368",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1647278285_420297.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084502\\MGT00368.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=366"
+  },
+  {
+    "name": "HKS Toyota GR Supra No.77 FAT FIVE RACING  2020 D1 Grand Prix",
+    "sku": "MGT00307-D1",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1643072557_403873.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084502\\MGT00307-D1.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=349"
+  },
+  {
+    "name": "HKS Toyota GR Supra (A90)   2020 Tokyo Auto Salon",
+    "sku": "MGT00350",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1643045951_397910.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084502\\MGT00350.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=343"
+  },
+  {
+    "name": "HKS Toyota GR Supra Renaissance Red",
+    "sku": "MGT00265",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1622218608_302223.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084502\\MGT00265.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=247"
+  },
+  {
+    "name": "HKS Toyota GR Supra  Nocturnal",
+    "sku": "MGT00226",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1612209055_263544.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084502\\MGT00226.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=210"
+  },
+  {
+    "name": "HKS Toyota GR Supra 2019 SEMA Presentation",
+    "sku": "MGT00212",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1606329502_246257.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084502\\MGT00212.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=193"
+  },
+  {
+    "name": "HKS ADVAN GR Supra",
+    "sku": "MGT00206",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1609354731_236977.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084502\\MGT00206.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=182"
+  },
+  {
+    "name": "Nissan  Skyline GT-R (R32) Gr. A #87 HKS",
+    "sku": "MGT00103-R",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1589933860_179289.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084502\\MGT00103-R.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=126"
+  },
+  {
+    "name": "Nissan Skyline GT-R R32 Gr. A #87 HKS 1992 Group A.",
+    "sku": "MGT00102",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1584823040_160888.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084502\\MGT00102.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=107"
+  },
+  {
+    "name": "Honda Civic Type R  HKS 2018 Time Attack",
+    "sku": "MGT00101",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1579197634_150505.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084502\\MGT00101.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=94"
+  },
+  {
+    "name": "Honda Civic Type R (FK8) HKS Black",
+    "sku": "MGT00097",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1572303378_134713.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_084502\\MGT00097.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=78"
+  }
+]

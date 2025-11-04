@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Subaru Impreza WRC99 #23  2000 Acropolis Rally",
+    "sku": "MGT01078",
+    "status": "Pre-Order",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/55109dea350ba8a35e4693e733da5b0c20250720224357135.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_114710\\MGT01078.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1857"
+  },
+  {
+    "name": "Subaru Impreza WRC98 1998 Rally Monte-Carlo 3rd Place #3",
+    "sku": "MGT00975",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile_list/3503c099e2adaa38a05689194408fa8520250226191237434.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_114710\\MGT00975.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1700"
+  },
+  {
+    "name": "SUBARU Impreza WRC98 1999 Rally Tour de Corse #22",
+    "sku": "MGT00564",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1684186457_637626.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_114710\\MGT00564.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=582"
+  },
+  {
+    "name": "SUBARU Impreza WRC97 1997 Rally Sanremo Winner #3",
+    "sku": "MGT00512",
+    "status": "Released",
+    "image_url": "https://minigt.tsm-models.com/upload/mini_gt/products_gif/product_pic_big/1676054172_578679.JPG",
+    "image_local_path": "results\\images_minigt.tsm-models.com_20251104_114710\\MGT00512.jpg",
+    "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=525"
+  }
+]
