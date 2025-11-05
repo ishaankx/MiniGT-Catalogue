@@ -34,14 +34,14 @@
   {
     "name": "BMW Z8 Silver",
     "sku": "MGT00998",
-    "status": "Pre-Order",
+    "status": "Released",
     "image_url": "https://minigt.tsm-models.com/upload/picfile_list/d5f65511633b2c6f4187ef41747dda4620250511195649625.JPG",
     "image_local_path": "results\\images_minigt.tsm-models.com_20251103_204842\\MGT00998.jpg",
     "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1802"
   },
   {
     "name": "BMW i7 xDrive60 Alpine White / Black Sapphire",
-    "sku": "MGT00959",
+    "sku": "Released",
     "status": "Pre-Order",
     "image_url": "https://minigt.tsm-models.com/upload/picfile_list/1715444f9d1718a26640b4a3aa3db99520250409210647921.JPG",
     "image_local_path": "results\\images_minigt.tsm-models.com_20251103_204842\\MGT00959.jpg",
@@ -98,7 +98,7 @@
   {
     "name": "BMW 750IL \"Tomorrow Never Dies\"",
     "sku": "MGT00902",
-    "status": "Pre-Order",
+    "status": "Released",
     "image_url": "https://minigt.tsm-models.com/upload/picfile_list/10e91ff661e77735bd95c2ad0ccd4d5820241122183525489.JPG",
     "image_local_path": "results\\images_minigt.tsm-models.com_20251103_204842\\MGT00902.jpg",
     "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1622"
@@ -154,7 +154,7 @@
   {
     "name": "BMW M3 M Performance Touring Alpine White",
     "sku": "MGT00776",
-    "status": "Pre-Order",
+    "status": "Released",
     "image_url": "https://minigt.tsm-models.com/upload/picfile_list/3b562f185ba4e6e9acd33b94fd5574ed20240514003757233.JPG",
     "image_local_path": "results\\images_minigt.tsm-models.com_20251103_204842\\MGT00776.jpg",
     "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1450"
@@ -178,7 +178,7 @@
   {
     "name": "BMW M4 CSL  Black Sapphire",
     "sku": "MGT00703",
-    "status": "Pre-Order",
+    "status": "Released",
     "image_url": "https://minigt.tsm-models.com/upload/picfile_list/72b35a74d66b2ab55e34337cbe3bf5bc20240127003434206.JPG",
     "image_local_path": "results\\images_minigt.tsm-models.com_20251103_204842\\MGT00703.jpg",
     "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1347"
@@ -186,7 +186,7 @@
   {
     "name": "BMW M3 Competition Touring  Toronto Red Metallic",
     "sku": "MGT00700",
-    "status": "Pre-Order",
+    "status": "Released",
     "image_url": "https://minigt.tsm-models.com/upload/picfile_list/418bc511b469ef9e7e4422ac12460c8520231219184504872.JPG",
     "image_local_path": "results\\images_minigt.tsm-models.com_20251103_204842\\MGT00700.jpg",
     "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1309"
@@ -258,7 +258,7 @@
   {
     "name": "BMW M3 #3 JPS Team BMW 1987 ATCC Championship Winner",
     "sku": "MGT00608",
-    "status": "Pre-Order",
+    "status": "Released",
     "image_url": "https://minigt.tsm-models.com/upload/picfile_list/7f14306c3ae4ec3ad494210b615bfbc320231122041652540.JPG",
     "image_local_path": "results\\images_minigt.tsm-models.com_20251103_204842\\MGT00608.jpg",
     "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1137"

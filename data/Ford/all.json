@@ -11,7 +11,7 @@
     "name": "Ford Mustang Mach1 Grabber Yellow",
     "sku": "MGT01139",
     "status": "Pre-Order",
-    "image_url": "https://minigt.tsm-models.com/upload/picfile/2024/09/20240930092749358.JPG",
+    "image_url": "https://minigt.tsm-models.com/upload/picfile/2025/10/20251015044129881.JPG",
     "image_local_path": "results\\images_minigt.tsm-models.com_20251103_213501\\MGT01139.jpg",
     "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1973"
   },
@@ -82,7 +82,7 @@
   {
     "name": "Ford Mustang Shelby GT500  Heritage Edition",
     "sku": "MGT00758",
-    "status": "Pre-Order",
+    "status": "Released",
     "image_url": "https://minigt.tsm-models.com/upload/picfile_list/68e3bb635c167cd2053210b8f1868d3f20240419030955634.JPG",
     "image_local_path": "results\\images_minigt.tsm-models.com_20251103_213501\\MGT00758.jpg",
     "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1426"
@@ -130,7 +130,7 @@
   {
     "name": "Ford GT Triple Yellow",
     "sku": "MGT00613",
-    "status": "Pre-Order",
+    "status": "Released",
     "image_url": "https://minigt.tsm-models.com/upload/picfile_list/b8790a7adc962888e937502eb85b84c820230908053242933.JPG",
     "image_local_path": "results\\images_minigt.tsm-models.com_20251103_213501\\MGT00613.jpg",
     "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1171"

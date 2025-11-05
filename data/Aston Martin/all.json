@@ -2,7 +2,7 @@
   {
     "name": "Aston Martin DBS Hyper Red",
     "sku": "MGT01065",
-    "status": "Pre-Order",
+    "status": "Released",
     "image_url": "https://minigt.tsm-models.com/upload/picfile_list/d63b19c5543039ceba352e892127e9a320250605071430912.JPG",
     "image_local_path": "results\\images_minigt.tsm-models.com_20251103_193147\\MGT01065.jpg",
     "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1835"
@@ -34,7 +34,7 @@
   {
     "name": "Aston Martin DB5 Sierra Blue",
     "sku": "MGT00954",
-    "status": "Pre-Order",
+    "status": "Released",
     "image_url": "https://minigt.tsm-models.com/upload/picfile_list/f28e87ec1caf6f007abc4e77c9bdbcdf20241209182036955.JPG",
     "image_local_path": "results\\images_minigt.tsm-models.com_20251103_193147\\MGT00954.jpg",
     "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1640"
@@ -58,7 +58,7 @@
   {
     "name": "Aston Martin Valkyrie  Hyper Red",
     "sku": "MGT00766",
-    "status": "Pre-Order",
+    "status": "Released",
     "image_url": "https://minigt.tsm-models.com/upload/picfile_list/44dcfcc8ea77b47008654e37f37c7ea120240527025648038.JPG",
     "image_local_path": "results\\images_minigt.tsm-models.com_20251103_193147\\MGT00766.jpg",
     "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1452"
@@ -66,7 +66,7 @@
   {
     "name": "Aston Martin Valkyrie  Sunburst  Yellow",
     "sku": "MGT00744",
-    "status": "Pre-Order",
+    "status": "Released",
     "image_url": "https://minigt.tsm-models.com/upload/picfile_list/547ebf22f64ece4678f8e241773bdcf020240318065541369.JPG",
     "image_local_path": "results\\images_minigt.tsm-models.com_20251103_193147\\MGT00744.jpg",
     "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1379"
@@ -82,7 +82,7 @@
   {
     "name": "Aston Martin Valkyrie Aston Martin Racing Green",
     "sku": "MGT00600",
-    "status": "Pre-Order",
+    "status": "Released",
     "image_url": "https://minigt.tsm-models.com/upload/picfile_list/3f55a1fd9d04be03ac7264e4ea12555220240112100637325.JPG",
     "image_local_path": "results\\images_minigt.tsm-models.com_20251103_193147\\MGT00600.jpg",
     "detail_url": "https://minigt.tsm-models.com/index.php?action=product-detail&id=1170"
